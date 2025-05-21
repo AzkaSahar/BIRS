@@ -9,14 +9,6 @@ This project implements a **Boolean Information Retrieval Model** for a collecti
 
 The system supports Boolean queries with up to three terms connected by `AND`, `OR`, and `NOT` operators, and proximity queries to find documents where two terms appear within *k* words of each other.
 
-## Assignment Objective
-
-* Understand how inverted and positional indexes work in retrieving documents.
-* Implement preprocessing: tokenization, case folding, stop-word removal, and stemming.
-* Build efficient Boolean and proximity query processors.
-* Provide a user interface to demonstrate query execution.
-* Evaluate results against a provided gold standard.
-
 ## Dataset
 
 * **Abstracts.zip**: Contains 448 abstracts in English (each file is a unique document).
@@ -95,8 +87,13 @@ nltk.download('punkt')
   * `boolean_query()`: Evaluates Boolean expressions over the inverted index.
   * `proximity_query()`: Checks word proximity using the positional index.
 * **GUI**: Built with `customtkinter` and `tkinter.Canvas` to provide a user-friendly interface.
+---
+
+## Demo
+https://github.com/user-attachments/assets/34441b67-6287-4a8f-aa76-1b56e75bd63a
 
 
+---
 
 ## Notes
 
