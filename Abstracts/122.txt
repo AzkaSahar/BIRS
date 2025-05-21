@@ -1,0 +1,5 @@
+Complex Decomposition of the Negative Distance Kernel
+
+svm,kernel functions,text categorization
+
+A Support Vector Machine (SVM) has become a very popular machine learning method for text classification. One reason for this relates to the range of existing kernels which allow for classifying data that is not linearly separable. The linear, polynomial and RBF (Gaussian Radial Basis Function) kernel are commonly used and serve as a basis of comparison in our study. We show how to derive the primal form of the quadratic Power Kernel (PK) -- also called the Negative Euclidean Distance Kernel (NDK) -- by means of complex numbers. We exemplify the NDK in the framework of text categorization using the Dewey Document Classification (DDC) as the target scheme. Our evaluation shows that the power kernel produces F-scores that are comparable to the reference kernels, but is -- except for the linear kernel -- faster to compute. Finally, we show how to extend the NDK-approach by including the Mahalanobis distance.

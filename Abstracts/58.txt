@@ -1,0 +1,5 @@
+Adding Diversity to Rank Examples in Anytime Nearest Neighbor Classification
+
+anytime algorithm, nearest neighbor, classification, data stream
+
+Data streams are ubiquitous in virtually every application domain. However, a property that is common to various domains and is frequently disregarded is the very high fluctuating data rates, in which the events do not occur with a fixed frequency. The classical learning algorithms do not seem to be adequate in such a scenario. In contrast, anytime classification provides a very convenient approach for this situation. In summary, an anytime classifier can be interrupted at any time before its completion and still be able to provide an intermediate classification. The popular k-nearest neighbor classifier can be easily made anytime by introducing a ranking of the training examples. In this paper, we show how the current state-of-the-art k-NN anytime classifier can be made more accurate by introducing diversity in the training set ranking. Our results show that, with this simple modification, the performance of the anytime version of the k-NN algorithm is consistently improved for a large number of datasets.

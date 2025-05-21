@@ -1,0 +1,5 @@
+A Hybrid Method for Intrusion Detection
+
+intrusion detection,k-nearest neighbor,genetic algorithm,network attacks
+
+Intrusion Detection Systems (IDSs) are used to detect malicious actions on information systems such as computing and networking systems. Abnormal behaviors or activities on the network systems could be detected by security systems. But, conventional security systems such as anti-virus and firewall cannot be successful in many malicious actions. To overcome this problem, better and more intelligent IDS solutions are required. In this study, a hybrid approach was proposed to use to detect network attacks. Genetic Algorithm (GA) and K-Nearest Neighbor (KNN) methods were combined to model and detect the attacks. KNN was employed to classify the attacks and GA was used to select k neighbors of an attack sample. This hybrid system was first applied in intrusion detection field. The system provides advantages such as, decreasing dependency of full training data set and providing plausible solution for intrusion detection. The results showed that the proposed system provides better results than single system.

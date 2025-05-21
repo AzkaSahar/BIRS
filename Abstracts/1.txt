@@ -1,0 +1,5 @@
+Ensemble Statistical and Heuristic Models for Unsupervised Word Alignment
+
+statistical word alignment, ensemble learning, heuristic word alignment
+
+Statistical word alignment models need large amount of training data while they are weak in small-size corpora. This paper proposes a new approach of unsupervised hybrid word alignment technique using ensemble learning method. This algorithm uses three base alignment models in several rounds to generate alignments. The ensemble algorithm uses a weighed scheme for resampling training data and a voting score to consider aggregated alignments. The underlying alignment algorithms used in this study include IBM Model 1, 2 and a heuristic method based on Dice measurement. Our experimental results show that by this approach, the alignment error rate could be improved by at least %15 for the base alignment models.

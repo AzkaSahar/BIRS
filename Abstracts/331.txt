@@ -1,0 +1,5 @@
+Iteratively Learning a Liver Segmentation Using Probabilistic Atlases: Preliminary Results
+
+liver segmentation,probabilistic atlas,viscous reconstruction
+
+This works deals with the concept of liver segmentation by using a priori information based on probabilistic atlases and segmentation learning based of previous steps. A probabilistic atlas is here understood as a probability or membership map that tells how likely is that a point belongs to a shape drawn from the shape distribution at hand. We devise a procedure to segment Perfusion Magnetic Resonance liver images that combines both: a probabilistic atlas of the liver and a segmentation algorithm based on global information of previous simpler segmentation steps, local information from close segmented slices and finally a mathematical morphology procedure, namely viscous reconstruction, to fill the shape. Preliminary results of the algorithm are provided.

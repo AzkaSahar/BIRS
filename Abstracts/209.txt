@@ -1,0 +1,5 @@
+Learning Complex Events from Sequences with Informed Gaps
+
+complex event programming,frequent sequence pattern mining,constraint programming
+
+Complex event processing is key technology for current business in which sequences of events are controlled. However, defining complex events is not easy, and sequence learning algorithms can help. To that end, sequence learning methods should consider temporal relationship among events. In this paper, we tackle the problem of mining complex events using frequent sequence pattern mining with time gaps. A constraint model of the learning problem is proposed. Consistently, the learning problem is addressed using solvers off the shelf. The experiments are carried out in a bike hiring domain so as a CEP system can account how many users will reach a depot, independently of which was their origin. Results are analysed in terms of individual and multiple users, as well as regarding the scalability of the method.

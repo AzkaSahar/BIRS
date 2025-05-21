@@ -1,0 +1,5 @@
+A Switch-and-Restart Algorithm with Exponential Restart Strategy for Objective Selection and its Runtime Analysis
+
+runtime analysis, objective selection, algorithm selection, online selection, ea+rl
+
+There exist optimization problems with the target objective, which is to be optimized, and several extra objectives, which may or may not be helpful in the optimization process. This paper considers the case when it is possible to find an optimum of the target objective by optimizing either the target objective or a single extra objective. An algorithm is presented that uses a single instance of an underlying single-objective optimization algorithm to optimize different objectives at different iterations and restarts the optimization algorithm between optimizing different objectives. This algorithm has the expected running time of at most 4 K min_O T_O until an optimum of the target objective is found, where T_O is the expected running time of the underlying optimization algorithm to find an optimum of the target objective by optimizing the objective O. An impact of not using restarts between iterations is also discussed.

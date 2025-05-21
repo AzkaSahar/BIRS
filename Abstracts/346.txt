@@ -1,0 +1,5 @@
+DeepPositioning:  Intelligent Fusion of Pervasive Magnetic Field and WiFi Fingerprinting for Smartphone Indoor Localization via Deep Learning 
+
+indoor localization,fingerprinting,wifi,magnetic field,deep learning,smartphone
+
+Since WiFi has been pervasively available indoor, most smartphone indoor localization systems are based on WiFi fingerprinting although they only give coarse-grained location estimation. In this paper, we propose a novel deep learning-based indoor fingerprinting system (called DeepPositioning), combining Received Signal Strength Indicator (RSSI) of WiFi and pervasive magnetic field to obtain richer fingerprinting. DeepPositioning includes an offline learning phase and an online serving phase. In the offline learning phase, deep learning is utilized to automatically extract rich intrinsic features from a large number of multi-class fingerprints collected using mobile phones. Experimental results demonstrate that deep learning models with the intelligent fusion of pervasive WiFi and magnetic field data can effectively improve smartphone indoor localization compared to existing approaches based on WiFi only.

@@ -1,0 +1,5 @@
+Fine-Grained Opinion Extraction with Markov Logic Networks
+
+opinion extraction,markov logic networks,joint inference
+
+Markov Logic Networks, a joint inference framework that combines logical and probabilistic representations, enable effective modeling of the dependencies that exist between different instances of a data sample. While its ability to capture relational dependencies makes it an ideal framework for predicting the structures inherent in many natural language processing (NLP) tasks, it is arguably underused in NLP, especially in comparison to other joint inference frameworks such as integer linear programming. In this paper, we present the first Markov logic model for the NLP task of fine-grained opinion extraction that exploits a factuality lexicon. When evaluated on a standard evaluation corpus, our approach surpasses a state-of-the-art approach in performance.

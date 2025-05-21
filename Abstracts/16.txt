@@ -1,0 +1,5 @@
+Bayesian Nonparametric Inverse Reinforcement Learning for Switched Markov Decision Processes
+
+markov decision processes, bayesian nonparametrics, inverse reinforcement learning
+
+In this paper we develop a Bayesian nonparametric Inverse Reinforcement Learning technique for switched Markov Decision Processes (MDP). Similar to switched linear dynamical systems, switched MDP (sMDP)can be used to represent complex behaviors composed of temporal transitions between simpler behaviors each represented by a standard MDP. We use sticky Hierarchical Dirichlet Process as a nonparametric prior on the sMDP model space, and describe a Markov Chain Monte Carlo method to efficiently learn the posterior on the sMDP models given the behavior data. We demonstrate the effectiveness of sMDP models for learning, prediction and  classification of complex agent behaviors in a simulated surveillance scenario.

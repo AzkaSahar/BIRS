@@ -1,0 +1,5 @@
+Sparse Temporal Difference Learning via Alternating Direction Method of Multipliers
+
+approximation algorithms,context,optimization,function approximation,learning (artificial intelligence),prediction algorithms,linear programming
+
+Recent work in off-line Reinforcement Learning has focused on efficient algorithms to incorporate feature selection, via l1-regularization, into the Bellman operator fixed-point estimators. These developments now mean that over-fitting can be avoided when the number of samples is small compared to the number of features. However, it remains unclear whether existing algorithms have the ability to offer good approximations for the task of policy evaluation and improvement. In this paper, we propose a new algorithm for approximating the fixed-point based on the Alternating Direction Method of Multipliers (ADMM). We demonstrate, with experimental results, that the proposed algorithm is more stable for policy iteration compared to prior work. Furthermore, we also derive a theoretical result that states the proposed algorithm obtains a solution which satisfies the optimality conditions for the fixed-point problem.

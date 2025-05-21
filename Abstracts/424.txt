@@ -1,0 +1,5 @@
+Application of Decision Trees for Detection of Student Dropout Profiles
+
+extraction patterns,student dropout,decision trees
+
+The results of the research project that aims to identify patterns of student dropout from socioeconomic, academic, disciplinary and institutional data of students from undergraduate programs at the University of Nariño from Pasto city (Colombia), using data mining techniques are presented. Built a data repository with the records of students who were admitted in the period from the first half of 2004 and the second semester of 2006. Three complete cohorts were analyzed with an observation period of six years until 2011. Socioeconomic and academic student dropout profiles were discovered using classification technique based on decision trees. The knowledge generated will support effective decision-making of university staff focused to develop policies and strategies related to student retention programs that are currently set.

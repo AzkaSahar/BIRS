@@ -1,0 +1,5 @@
+A Cluster Analysis of Challenging Behaviors in Autism Spectrum Disorder
+
+cluster analysis,autism spectrum disorder,challenging behaviors,machine learning
+
+We apply cluster analysis to a sample of 2,116 children with Autism Spectrum Disorder in order to identify patterns of challenging behaviors observed in home and centerbased clinical settings. The largest study of this type to date, and the first to employ machine learning, our results indicate that while the presence of multiple challenging behaviors is common, in most cases a dominant behavior emerges. Furthermore, the trend is also observed when we train our cluster models on the male and female samples separately. This work provides a basis for future studies to understand the relationship of challenging behavior profiles to learning outcomes, with the ultimate goal of providing personalized therapeutic interventions with maximum efficacy and minimum time and cost.

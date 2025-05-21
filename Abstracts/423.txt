@@ -1,0 +1,5 @@
+A Novel Application of Naive Bayes Classifier in Photovoltaic Energy Prediction
+
+pv system,solar energy,naive bayes,prediction
+
+Solar energy is one of the most affordable and clean renewable energy source in the world. Hence, the solar energy prediction is an inevitable requirement in order to get the maximum solar energy during the day time and to increase the efficiency of solar energy systems. For this purpose, this paper predicts the daily total energy generation of an installed photovoltaic system using the Naïve Bayes classifier. In the prediction process, one-year historical dataset including daily average temperature, daily total sunshine duration, daily total global solar radiation and daily total photovoltaic energy generation parameters are used as the categorical-valued attributes. By means of the Naïve Bayes application, the sensitivity and the accuracy measures are improved for the photovoltaic energy prediction and the effects of other solar attributes on the photovoltaic energy generation are evaluated.

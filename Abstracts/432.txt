@@ -1,0 +1,5 @@
+Forward Looking Sonar Scene Matching Using Deep Learning
+
+deep learning,forward looking sonars,scene matching
+
+Optical images display drastically reduced visibility due to underwater turbidity conditions. Sonar imaging presents an alternative form of environment perception for underwater vehicles navigation, mapping and localization. In this work we present a novel method for Acoustic Scene Matching. Therefore, we developed and trained a new Deep Learning architecture designed to compare two acoustic images and decide if they correspond to the same underwater scene. The network is named Sonar Matching Network (SMNet). The acoustic images used in this paper were obtained by a Forward Looking Sonar during a Remotely Operated Vehicle (ROV) mission. A Geographic Positioning System provided the ROV position for the ground truth score which is used in the learning process of our network. The proposed method uses 36.000 samples of real data for validation. From a binary classification perspective, our method achieved 98% of accuracy when two given scenes have more than ten percent of intersection.

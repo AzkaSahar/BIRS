@@ -1,0 +1,5 @@
+Latent Topic-Semantic Indexing Based Automatic Text Summarization
+
+text summarization,hierarchical bayesian model,topic-semantic indexing (tsi),one-way anova
+
+Automatic summarization, a difficult but pressing problem in natural language processing, aims at shortening source documents while retaining main information. In recent years, more statistical machine learning methods have been applied to automatic summarization. In this paper, we propose a novel approach for summarization, based on hierarchical Bayesian model of topic-semantic indexing (TSI) and extraction strategy of average log-likelihood. The new method is tested on Brown corpus, and its performance is analyzed by a well-designed blind experiment of one-way ANOVA on human reviews. The experimental results show that TSI model is promising on topic-driven summarization.

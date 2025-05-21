@@ -1,0 +1,5 @@
+Dimensionality Reduction in Statistical Learning
+
+statistical learning, dimensionality reduction, manifold learning, tangent bundle manifold learning, unsupervised learning
+
+Many Statistical Learning tasks deal with data which are presented in high dimensional spaces, and the curse of dimensionality phenomena is often an obstacle to the use of many methods for solving these tasks. To avoid these phenomena, various Dimensionality Reduction algorithms are used as a first key step in solutions of these tasks. The algorithms transform the original high-dimensional data into their lower dimensional representations in such a way that the initial task may be reduced to the corresponding task for the constructed lower-dimensional representation of the original dataset. The Dimensionality Reduction problems have different formulations depending on initial Statistical Learning tasks. A new geometrically motivated algorithm that solves various Dimensionality Reduction problems is presented.

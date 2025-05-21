@@ -1,0 +1,5 @@
+Recommendation Model Based on a Contextual Similarity Measure
+
+collaborative recommendation,preference prediction technique,user profiles,topical ontology,data clustering,contextual similarity,item popularity
+
+Recommendation technique is a personalized search used to assist a user access information/services that are related to his preferences and interests, or to the preferences and interests of similar users. The main challenge of personalized Information Retrieval is the modeling and the integration of user profiles. In this paper, we propose a generic model of user profiles based on the search history of users delimited by several search sessions. These profiles are based on weighted topical graphs and are integrated into a hybrid data recommendation process. To evaluate the proposed system a prototype is developed. The results are quite encouraging; they showed that our model is able to help users when searching for items.

@@ -1,0 +1,5 @@
+Predicting Movie Box Office Profitability: A Neural Network Approach
+
+artificial neural network,backpropagation,social media,data analytics,movie,box office,predict,profitability
+
+In this research, we have developed a model for predicting the profitability class of a movie namely "Profit" and "Loss" based on the data about movies released between the years 2010 and 2015. Our methodology considers both historical data as well as data extracted from the social media. This data is normalized and then given a weight using standard normalization techniques. The cleaned and normalized dataset is then used to train a back-propagation cross entropy validated neural network. Results show that our strategy of identifying the class of success is highly effective and accurate when compared to the results from using a support machine vector on the data.

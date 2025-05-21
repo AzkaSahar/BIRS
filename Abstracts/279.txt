@@ -1,0 +1,5 @@
+Identifying Nontechnical Power Loss via Spatial and Temporal Deep Learning
+
+autoencoder,deep learning,long short-term memory,nontechnical loss,unsupervised learning,transfer learning
+
+Fraud detection in electricity consumption is a major challenge for power distribution companies. While many pattern recognition techniques have been applied to identify electricity theft, they often require extensive handcrafted feature engineering. Instead, through deep layers of transformation, nonlinearity, and abstraction, Deep Learning (DL) automatically extracts key features from data. In this paper, we design spatial and temporal deep learning solutions to identify nontechnical power losses (NTL), including Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM) and Stacked Autoencoder. These models are evaluated in a modified IEEE 123-bus test feeder. For the same tests, we also conduct comparison experiments using three conventional machine learning approaches: Random Forest, Decision Trees and shallow Neural Networks. Experimental results demonstrate that the spatiotemporal deep learning approaches outperform conventional machine learning approaches.

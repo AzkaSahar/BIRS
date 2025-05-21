@@ -1,0 +1,5 @@
+RobustSPAM for Inference from Noisy Longitudinal Data and Preservation of Privacy
+
+robust,temporal pattern,noisy data,privacy
+
+The availability of complex temporal datasets in social, health and consumer contexts has driven the development of pattern mining techniques that enable the use of classical machine learning tools for model building. In this work we introduce a robust temporal pattern mining framework for finding predictive patterns in complex timestamped multivariate and noisy data. We design an algorithm RobustSPAM that enables mining of temporal patterns from data with noisy timestamps. We apply our algorithm to social care data from a local government body and investigate how the efficiency and accuracy of the method depends on the level of noise. We further explore the trade-off between the loss of predictivity due to perturbation of timestamps and the risk of person re-identification.

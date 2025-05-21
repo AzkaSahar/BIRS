@@ -1,0 +1,5 @@
+Online Learning Algorithm for Collective LDA
+
+topic model,online learning,variational inference,multi-corpora,data mining
+
+Collective Latent Dirichlet Allocation (C-LDA) is proposed as an extension of LDA to simultaneously model multiple corpora from different domains in order to overcome bias of individual corpus. However, with large volume of document collections from various sources, it becomes challenging to achieve fast convergence for C-LDA. The high time complexity of C-LDA limits its application to real-world tasks. Luckily, online learning has shown promise for speeding up the convergence of LDA. In this paper, we propose to explore online learning for collective LDA (OVCLDA). We first develop an efficient variational inference algorithm for collective LDA and then extend it to the online learning framework. We perform experiments with various real-world corpora. Experimental results have shown that OVCLDA can learn comparable topics with C-LDA and better than Online LDA, and achieves comparable computational efficiency with Online LDA and is much more efficient than C-LDA.

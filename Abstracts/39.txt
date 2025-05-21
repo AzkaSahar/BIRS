@@ -1,0 +1,5 @@
+Expert Bayes: Automatically refining manually built Bayesian networks
+
+medical informatics, bayesian networks, structure learning
+
+Bayesian network structures are usually built using only the data and starting from an empty network or from a naive Bayes structure. Very often, in some domains, like medicine, a prior structure is already known based on expert knowledge. This structure can be automatically or manually refined in search for better performance models. In this work, we take Bayesian networks built by specialists and show that minor perturbations to this original network can yield better classifiers with a very small computational cost, while maintaining most of the interpretability of the original network.

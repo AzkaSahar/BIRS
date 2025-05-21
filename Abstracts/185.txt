@@ -1,0 +1,5 @@
+Diagnosis of Bearing Defects in Induction Motors by Fuzzy-Neighborhood Density-Based Clustering
+
+fault diagnosis,bearing defects,induction motors,fuzzy-neighborhood density-based clustering
+
+In this paper, a supervised fuzzy-neighborhood density-based clustering approach is proposed for the fault diagnosis of induction motors' bearings. The proposed approach makes use of the labeled data regarding the actual classes of faulty and fault-free cases, in order to train the fuzzy-neighborhood density-based clustering algorithm in a supervised manner, by resorting to an invasive weed optimization algorithm that aims to minimize an error-based objective function. The proposed classifier can properly classify multi-class data with complex and variously shaped decision boundaries among the different classes of faults and the fault-free state, and is robust against noise. This is due mainly to the fact that the classifier is constructed using the fuzzy-neighborhood density based clustering method, which is not sensitive to the geometrical shape of clusters in the feature space.

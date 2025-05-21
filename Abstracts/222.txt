@@ -1,0 +1,5 @@
+Artificial Neural Network Based Abdominal Organ Segmentations: A Review
+
+organ segmentation,neural networks,mr images,ct images
+
+There are many neural network based abdominal organ segmentation approaches from medical images. Computed tomography images were mostly used in these approaches. Applied techniques are usually based on prior information regarding position, shape, and size of organs in these methods. In the literature, there are only a few neural network based techniques that were implemented to segment abdominal organs from magnetic resonance based images. In this paper, we present these methods and their results.

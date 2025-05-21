@@ -1,0 +1,5 @@
+Supervised Music Chord Recognition
+
+music, chord, feature
+
+Chord represents the back-bone of occidental music genre as it contains rich harmonic information which is useful for various music applications such as music genre classification or music retrieval. Hence, chord recognition or transcription is of importance for music representation. In this paper we focus on chord recognition and especially investigate different features representation used in such a system:  classical features as well as a new type of feature we propose are explored.  We evaluate their usefulness through a multi-class chord classification problem.

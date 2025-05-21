@@ -1,0 +1,5 @@
+Inferring Gene Regulatory Networks by Combining Supervised and Unsupervised Methods
+
+data mining,machine learning,network inference,systems biology
+
+Supervised methods for inferring gene regulatory networks (GRNs) perform well with good training data. However, when training data is absent, these methods are not applicable. Unsupervised methods do not need training data but their accuracy is low. In this paper, we combine supervised and unsupervised methods to infer GRNs using time-series gene expression data. Specifically, we use results obtained from unsupervised methods to train supervised methods. Since the results contain noise, we develop a data cleaning algorithm to remove noise, hence improving the quality of the training data. These refined training data are then used to guide classifiers including support vector machines and deep learning tools to infer GRNs through link prediction. Experimental results on several data sets demonstrate the good performance of the classifiers and the effectiveness of our data cleaning algorithm.

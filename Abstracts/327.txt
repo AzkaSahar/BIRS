@@ -1,0 +1,5 @@
+User Movement Prediction: The Contribution of Machine Learning Techniques
+
+indoor user movement,classification,ensemble learning,machine learning,bagging,boosting
+
+Ambient Assisted Living (AAL) aims to increase the time older people or disabled people can live in their home environment by assisting them in performing activities of daily living by the use of intelligent products. Localization and tracking of users in indoor environment are the main components of AAL. Wireless sensor networks is an effective technology to accomplish these services by using Received Signal Strength (RSS) information. This work seeks to investigate the effect of machine learning techniques on the accuracy of user movement prediction. Five base classifiers and two ensemble learning approaches are employed and the results are evaluated in terms of precision recall, and F-measure. A real-life benchmark dataset in the area of AAL is used for evaluation. The results show that J48 is the best performing model compared to the other base-level classifiers. It also shows that Bagged J48 achieves the best performance.

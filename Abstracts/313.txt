@@ -1,0 +1,5 @@
+Identifying Gender from SMS Text Messages
+
+author classification,gender identification,sms text
+
+Short message service (SMS) has become a very popular medium for communication due to its convenience and low cost. SMS text messaging makes it easy to provide a false name, age, gender, and location in order to hide one's true identity. Consequently it has become important to establish new cyber forensics methods, such as detecting SMS message authors, as a post-hoc analysis technique deemed useful in criminal persecution cases. In this paper, we propose a new combined method for authorship classification of gender of SMS text messages, which combines machine learning algorithms with text processing features to increase the prediction accuracy of the author gender classification. We were able to achieve 72.39 accuracy level with J48 classification algorithm supported by text processing.

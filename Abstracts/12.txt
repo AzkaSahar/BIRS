@@ -1,0 +1,5 @@
+An Accurate, Fast Embedded Feature Selection for SVMs
+
+rfe, feature selection, embedded methods, support vector machines, recursive feature addition
+
+Feature selection is still a vital area for research in the machine learning field. After the emergence of big data, the need for mining large data sizes has increased to provide faster and more accurate predictions. Feature selection is concerned with selecting the most important features from a set of input features since some datasets may contain irrelevant and/or redundant features. In this paper, a new feature selection method of type embedded is presented and discussed with some preliminary results using existing benchmark datasets. The new method is called Recursive Feature Addition which works in a forward fashion and is based on Support Vector Machines. The new method has been applied to five different benchmark datasets and for which it has shown superior performance in terms of accuracy and time as compared to Filter, Wrapper and other Embedded methods.

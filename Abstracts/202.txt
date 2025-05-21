@@ -1,0 +1,5 @@
+Multi-period Prediction of Solar Radiation Using ARMA and ARIMA Models
+
+solar radiation,multi-period prediction,arma,arima
+
+Due to the variations in weather conditions, solar power integration to the electricity grid at a high penetration rate can cause a threat for the grid stability. Therefore, it is required to predict the solar radiation parameter in order to ensure the quality and the security of the grid. In this study, initially, a 1-h time series model belong to the solar radiation parameter is created for multi-period predictions. Afterwards, autoregressive moving average (ARMA) and autoregressive integrated moving average (ARIMA) models are compared in terms of the goodness-of-fit value produced by the log-likelihood function. As a result of determining the best statistical models in multi-period predictions, one-period, two-period and three-period ahead predictions are carried out for the solar radiation parameter in a comprehensive way. Many feasible comparisons have been made for the solar radiation prediction.

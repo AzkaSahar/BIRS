@@ -1,0 +1,5 @@
+Statistical Fault Localization Based on Importance Sampling
+
+fault localization,importance sampling
+
+This paper presents a novel probabilistic approach for the fault localization challenge based on importance sampling. The iterative approach utilizes test results and execution profiles to estimate the likelihood of suspiciousness of program statements. Over a few iterations of probability updates and sampling, the procedure directs its attention towards those statements that are more likely to be faulty. The proposed approach is designed to be more sensitive to failing test cases in comparison to passing test cases. The effectiveness of the proposed stochastic approach is evaluated through two case studies and the results are compared against other popular fault localization methods.

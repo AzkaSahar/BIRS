@@ -1,0 +1,5 @@
+Support Vector Regression for Predicting the Enhancement Duration of Software Projects
+
+software engineering,software enhancement duration prediction,support vector egression,statistical regression,isbsg
+
+Software engineering (SE) has been defined as the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software. Enhancement is a type of software maintenance. SE involves software planning (SP), and SP includes prediction. In this study, we propose the application of two types of support vector regression (SVR) termed ?-SVR and ?-SVR to predict the duration of the software enhancement. A SVR is a type of support vector machine, which is a machine learning technique. Two data sets of software projects were used for training and testing the ?-SVR and ?-SVR. The prediction accuracy of the SVRs was compared to that of a statistical regression. Based on statistical tests, results showed that a ?-SVR with linear kernel was statistically better than that of a statistical regression model when software projects were enhanced on Mid Range platform and coded in programming languages of third generation.

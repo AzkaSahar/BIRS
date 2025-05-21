@@ -1,0 +1,5 @@
+Bayesian Networks for Inverse Inference in Manufacturing Bayesian Networks
+
+inverse-inference,manufacturing,bayesian-networks
+
+Physics based simulations of manufacturing processes are used for prediction of material properties and defects in a number of industrial applications. However, a practising engineer often requires the solution to an "inverse problem" - prediction of inputs for the desired outcome. The inverse problem is usually solved by constrained optimisation. Extensive simulation during optimisation is avoided through response surfaces constructed from simulations. But the design space is often so large that even with response surfaces, optimisation might not be possible. Moreover, these problems are typically ill-posed, so discriminative models such as artificial neural networks do not work well. In this paper, we investigate the application of conditional linear Gaussian Bayesian networks to address the inverse problem with multi-pass wire drawing process as a case study. We propose an approach to systematically find all solutions and rank them according to their likelihood.

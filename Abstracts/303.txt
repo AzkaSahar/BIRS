@@ -1,0 +1,5 @@
+Classifying Educational Lectures in Low-Resource Languages
+
+training,mathematical model,semantics,logistics,computational modeling,neural networks,measurement
+
+Classifying educational resources such as videos and articles can be challenging in low-resource languages due to lack of appropriate tools and sufficient labeled data. To overcome this problem, a crosslingual classification method that utilizes resources created in one high-resource language, such as English, to perform classification in many low-resource languages, is proposed. Data scarcity issue is prevented by transferring information from highresources languages to the low-resources ones. First, word embeddings are extracted using one of the frameworks proposed previously, then classifiers are trained using the highresource language documents. Two versions of the method that use different higher-level composition functions are implemented and compared.

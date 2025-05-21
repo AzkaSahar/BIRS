@@ -1,0 +1,5 @@
+A Hybrid Scheme for Fault Diagnosis with Partially Labeled Sets of Observations
+
+fault diagnosis,semi-supervised learning,bearing defects,dimensionality reduction,induction motors
+
+Machine learning techniques are widely used for diagnosing faults to guarantee the safe and reliable operation of the systems. Among various techniques, semi-supervised learning can help in diagnosing faulty states and decision making in partially labeled data, where only a few number of labeled observations along with a large number of unlabeled observations are collected from the process. Thus, it is crucial to conduct a critical study on the use of semi-supervised techniques for both dimensionality reduction and fault classification. In this work, three state-of-the- art semi-supervised dimensionality reduction techniques are used to produce informative features for semi-supervised fault classifiers. This study aims to achieve the best pair of the semisupervised dimensionality reduction and classification techniques that can be integrated into the diagnostic scheme for decision making under partially labeled sets of observations.

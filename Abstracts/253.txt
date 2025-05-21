@@ -1,0 +1,5 @@
+Cross-Document Knowledge Discovery Using Semantic Concept Topic Model
+
+knowledge discovery,topic model,latent dirichlet allocation,hierarchical dirichlet process,bag-of-concepts
+
+Topic models employ the Bag-of-Words (BOW) representation, which break terms into constituent words and treat words as surface strings without assuming predefined knowledge about word meaning. In this paper, we propose the Semantic Concept Latent Dirichlet Allocation (SCLDA) and Semantic Concept Hierarchical Dirichlet Process (SCHDP) based approaches by representing text as meaningful concepts rather than words, using a new model known as Bag-of-Concepts (BOC). We propose new algorithms of applying SCLDA and SCHDP into the Concept Chain Queries (CCQ) problem. The algorithms are focused on discovering new semantic relationships between two concepts across documents where relationships found reveal semantic paths linking two concepts across multiple text units. The experiments demonstrate the search quality has been greatly improved, compared with using other LDA or HDP based approaches.

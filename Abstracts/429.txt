@@ -1,0 +1,5 @@
+A Simple Neuro-Heuristic Computational Intelligence Algorithm for Thin Film Flow Equation Arising in Physical Models
+
+thin film flow equation,neural networks,logsigmoid function,boundary value problems
+
+In this study, computational method are used for finding the approximation in the solution of thin film flow problem using stochastic solver like genetic algorithm (GA) and pattern search (PS). The mathematical model is formulated by defining a fitness function and the process is working in artificial neural networks (ANNs). Proposed numerical results are optimized several times for various values of stoke numbers and material parameters. Different parameters are chosen and several independent number of runs are carried out to find the reliability and accuracy of results. A statistical analysis is presented for the reliability of designed scheme.

@@ -1,0 +1,5 @@
+Employing Markov Networks on Curriculum Graphs to Predict Student Performance
+
+linear regression, student success, educational analytics, markov network
+
+Colleges and universities are increasingly interested in tracking student progress as they monitor and work to improve their retention and graduation rates. Ideally, early indicators of student progress, or lack thereof, can be used to provide appropriate interventions that increase the likelihood of student success. In this paper we present a framework that uses data mining and machine learning techniques, and in particular, linear regression and a Markov network (MN), to predict the performance of students early in their academic careers. The results obtained show that the proposed framework can predict student progress, specifically student grade point average (GPA) within the intended major, with minimal error after observing a single semester of performance. Furthermore, as additional performance is observed, the predicted GPA in subsequent semesters becomes increasingly accurate, providing the ability to advise students regarding likely success outcomes early in their academic careers.

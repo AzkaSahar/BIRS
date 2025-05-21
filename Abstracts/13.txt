@@ -1,0 +1,5 @@
+Learning Good Features To Track
+
+object tracking, convolutional neural network, feature learning
+
+Object tracking is an important task within the field of computer vision. Tracking accuracy depends mainly on finding good discriminative features to estimate the target location. In this paper, we introduce online feature learning in tracking and propose to learn good features to track generic objects using online convolutional neural networks (OCNN). OCNN has two feature mapping layers that are trained offline based on unlabeled data. In tracking, it is also augmented with a classifier to provide a decision. In order to learn discriminative and stable features for tracking, we propose a novel object function to train OCNN by penalizing the feature variations in consecutive frames. We build a tracking system by combining OCNN and a color-based multi-appearance model. Our experimental results on publicly available video datasets show that the tracking system has superior performance when compared with several state-of-the-art trackers.

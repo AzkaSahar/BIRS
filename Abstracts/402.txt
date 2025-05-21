@@ -1,0 +1,5 @@
+Adventure Game with a Neural Network Controlled Non-playing Character
+
+neural networks,genetic algorithm,web based games,neuroevolution
+
+This paper presents a way to evolve a non-playing character by controlling it through a neural network, then using a genetic algorithm to alter the weights. Previous neural network data provides a population from which to select individuals, and the simulated results allow relative rankings that we use as a fitness function. Treating the selected sets of neural network weights as a binary sequence, the program uses cross-over and mutation to create a new set of weights, which are subsequently evaluated. Through this process, we find that the program creates better sets of neural network weights, and that the relative rankings allow the computer-controlled character to have a range of difficulty levels. We implement this experiment as part of a game.

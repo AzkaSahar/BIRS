@@ -1,0 +1,5 @@
+An LED Based Indoor Localization System Using k-Means Clustering
+
+indoor localization,k-means,unsupervised learning,clustering
+
+This paper introduces a novel visible light positioning (VLP) system using an un-supervised machine learning approach. Two transmitters consist of light emitting diodes (LEDs) which are modulated with 1 kHz and 2.5 kHz sinusoidal signals respectively. At the receiver end, the received signal strength (RSS) is calculated and a sparse grid/cube is constructed by measuring light intensity at different locations. A bilinear interpolation is then applied to create a dense grid of readings which is used for the training of a hierarchical k-means clustering system. For a given query LEDs reading, the trained clusters are used for position estimation by minimizing the distances between the readings and cluster centroids. Experimental results show that an average accuracy of 0.31m can be achieved for a room with the dimensions of 4.3 × 4 × 4 m3. We further compared the performance of two other clustering methods: k-medoids and fuzzy c-means however no significant improvement over the kmeans clustering is found.

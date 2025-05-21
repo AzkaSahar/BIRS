@@ -1,0 +1,5 @@
+Gaussian Mixture Model Cluster Forest
+
+cluster forest,clustering,ensemble clustering,gaussian mixture,expectation maximization
+
+Random Forest (RF) classification algorithm is widely used in the area of information retrieval and became a basis for some extended branches of classification and/or regression algorithms. Cluster Forest (CF) represents a particular branch, and brings usually better results than individual clustering algorithms. This article describes a new ensemble clustering algorithm based on CF that internally uses a probabilistic model called Gaussian Mixture Model (GMM). Finally, Expectation-maximization algorithm is used for estimation of GMM parameters. The proposed ensemble clustering algorithm will be compared with several different approaches and tested on eight datasets.

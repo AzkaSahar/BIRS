@@ -1,0 +1,5 @@
+Learning Fairness under Constraints: A Decentralized Resource Allocation Game
+
+resource management,games,learning (artificial intelligence),computer science,robot sensing systems,electrical engineering
+
+We study multi-type resource allocation in multi-agent system, where some constraints are enforced upon resource providers and users. These constraints are limitations of resource types and connection availabilities, which may make the collaboration between agents infeasible. We discuss the notion of distributed resource fairness under these constraints. Then we propose a game theory and reinforcement learning based solution for collaborative resource allocation, so that resources are assigned to users fairly and tasks are assigned to resource agents efficiently. We utilize data from Google data center as our input to simulations. Results show that our learning approach outperforms a greedy and random explorations in terms of resource utilization and fairness.

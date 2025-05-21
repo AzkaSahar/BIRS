@@ -1,0 +1,5 @@
+Scalable Learning of Entity and Predicate Embeddings for Knowledge Graph Completion
+
+representation learning,semantic web,link prediction,knowledge graphs
+
+Knowledge Graphs (KGs) are a widely used formalism for representing knowledge in the Web of Data. We focus on the problem of link prediction, i.e. predicting missing links in large knowledge graphs, so to discover new facts about the world. Representation learning models that embed entities and relation types in continuous vector spaces recently were used to achieve new state-of-the-art link prediction results. A limiting factor in these models is that the process of learning the optimal embedding vectors can be really time-consuming, and might even require days of computations for large KGs. In this work, we propose a principled method for sensibly reducing the learning time, while converging to more accurate link prediction models. Furthermore, we employ the proposed method for training and evaluating a set of novel and scalable models. Our extensive evaluations show significant improvements over state-of-the-art link prediction methods on several datasets.

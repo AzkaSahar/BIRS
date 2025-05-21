@@ -1,0 +1,5 @@
+Density-Based Data Pruning Method for Deep Reinforcement Learning
+
+correlation,stability analysis,learning (artificial intelligence),training,roads,indexes,standards
+
+We present a density-based Data Pruning method for Deep Reinforcement Learning (DRL) to improve learning stability and long-term memory in rare situations. The method controls density distribution in the experience pool by discarding high correlation data and preserving rare and unique data. We apply our method to Deep Q-networks (DQN) and Deep Deterministic Policy Gradients (DDPG) for testing in discrete and continuous action space, respectively. We evaluate our method on path following tasks in a simulated physical environment. Compared to other conventional methods such as First-In-First-Out (FIFO), our method provides a significant improvement in performance and learning stability, the average cumulative reward is increased by up to 21% and the standard deviation of the cumulative reward over multiple trials is reduced by 80%. In addition, long-term memory improvement is shown as the agent can remember and perform a behavior corresponding to a past rare event.

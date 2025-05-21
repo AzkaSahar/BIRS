@@ -1,0 +1,5 @@
+Nonparametric Bayesian Modeling for Automated Database Schema Matching
+
+computational modeling,bayes methods,government,data integration,databases,metadata
+
+The problem of merging databases arises in many government and commercial applications. Schema matching, a common first step, identifies equivalent fields between databases. We introduce a schema matching framework that builds nonparametric Bayesian models for each field and compares them by computing the probability that a single model could have generated both fields. Our experiments show that our method is more accurate and faster than the existing instance-based matching algorithms in part because of the use of nonparametric Bayesian models.

@@ -1,0 +1,5 @@
+American Sign Language Recognition Using Leap Motion Sensor
+
+american sign language; 3d leap motion sensor; k-nearest neighbor; support vector machine; deaf education
+
+In this paper, we present an American Sign Language recognition system using a compact and affordable 3D motion sensor. The palm-sized Leap Motion sensor provides a much more portable and economical solution than Cyblerglove or Microsoft kinect used in existing studies. We apply k-nearest neighbor and support vector machine to classify the 26 letters of the English alphabet in American Sign Language using the derived features from the sensory data. The experiment result shows that the highest average classification rate of 72.78% and 79.83% was achieved by k-nearest neighbor and support vector machine respectively. We also provide detailed discussions on the parameter setting in machine learning methods and accuracy of specific alphabet letters in this paper.

@@ -1,0 +1,5 @@
+A knowledge growth and consolidation framework for lifelong machine learning systems
+
+lifelong machine learning, oblivion criterion, knowledge topology and acquisition, declarative learning
+
+A more effective vision of machine learning systems entails tools that are able to improve task after task and to reuse the patterns and knowledge that are acquired previously for future tasks. This incremental, long-life view of machine learning goes beyond most of state-of-the-art machine learning techniques that learn throw-away models. In this paper we present a long-life knowledge acquisition, evaluation and consolidation framework that is designed to work with any rule-based machine learning or inductive inference engine and integrate it into a long-life learner. In order to do that we work over the graph of working memory rules and introduce several topological metrics over it from which we derive an oblivion criterion to drop useless rules from working memory and a consolidation process to promote the rules to the knowledge base. We evaluate the framework on a series of tasks in a chess rule learning domain.

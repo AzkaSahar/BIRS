@@ -1,0 +1,5 @@
+Semi-Supervised Kernel-Based Temporal Clustering
+
+kernel k-means, semi-supervised clustering, temporal segmentation
+
+In this paper, we adapt two existing methods to perform semi-supervised temporal clustering: Aligned Cluster Analysis (ACA), a temporal clustering algorithm, and Constrained Spectral Clustering, a semi-supervised clustering algorithm. In the first method, we add side information in the form of pairwise constraints to its objective function, and in the second, we add a temporal search to its framework. We also extend both methods by propagating the constraints throughout the whole similarity matrix. In order to validate the advantage of the proposed semi-supervised methods to temporal clustering, we evaluate them in comparison to their original versions as well as another semi-supervised temporal cluster on three temporal datasets. The results show that the proposed methods are competitive and provide good improvement over the unsupervised approaches.

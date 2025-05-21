@@ -1,0 +1,5 @@
+Iterative Hard Thresholding for Keyword Extraction from Large Text Corpora
+
+text analysis,information retrieval,iterative methods,statistical analysis
+
+To better understand and analyze text corpora, such as the news, it is often useful to extract keywords that are meaningfully associated with a given topic. A corpus of documents labeled by their topic can be used to approach this as a learning problem. We consider this problem through the lens of statistical text analysis, using bag-of-words frequencies as features for a sparse linear model. We demonstrate, through numerical experiments, that iterative hard thresholding (IHT) is a practical and effective algorithm for keyword-extraction from large text corpora. In fact, our implementation of IHT can quickly analyze more than 800,000 documents, returning keywords comparable to algorithms solving a Lasso problem-formulation, with significantly less computation time. Further, we generalize the analysis of the IHT algorithm to show that it is stable for rank deficient matrices, as those arising from our bag-of-words model often are.

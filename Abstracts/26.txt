@@ -1,0 +1,5 @@
+Human action recognition based on MOCAP information using convolution neural networks
+
+convolutional neural networks (cnn), motion capture (mocap)
+
+Human action recognition is an important component in semantic analysis of human behavior. In this paper, we propose an approach for human action recognition based on motion capture (MOCAP) information using convolutional neural networks (CNN). Distance based metrics computed from MOCAP information of only three human joints are used in the computation of features. The range and temporal variation of these distance metrics are considered in the design of features which are discriminative for action recognition. A convolutional neural network capable of recognizing local patterns is used to identify human actions from the temporal variation of these features, which are distorted due to the inconsistency in the execution of actions across observations and subjects. Experiments conducted on Berkeley MHAD dataset demonstrate the effectiveness of the proposed approach.

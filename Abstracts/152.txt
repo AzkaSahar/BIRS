@@ -1,0 +1,5 @@
+A Machine-Learning Based Approach for Measuring the Completeness of Online Privacy Policies
+
+privacy policy,transparency,completeness,machine learning,text mining
+
+Web site privacy policies are often long, difficult to understand, and contain incomplete information. Consequently, users tend not to read the privacy policies, thus putting their privacy at risk. This paper describes an automated approach for assisting users to evaluate online privacy policies based on completeness. The term completeness refers to the presence of 8 sections in an online privacy policy that have been recognized as helpful in establishing the transparency of a privacy policy. Given a new online privacy policy, the proposed system employs a machine-learning based approach to predict a completeness score for the privacy policy. This score can then be used by the user to assess the risk to their privacy.

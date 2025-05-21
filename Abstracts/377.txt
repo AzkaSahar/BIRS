@@ -1,0 +1,5 @@
+Direct Multiclass Boosting Using Base Classifiers' Posterior Probabilities Estimates
+
+machine learning,boosting,margin,multiclass classification
+
+We present a new multiclass boosting algorithm called Adaboost.BG. Like the original Freund and Shapire's Adaboost algorithm, it aggregates trees but instead of using their misclassification error it takes into account the margins of the observations, which may be seen as confidence measures of their prediction, rather then their correctness. We prove the efficiency of our algorithm by simulation and compare it to similar approaches known to minimize the global margins of the final classifier.

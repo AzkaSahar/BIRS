@@ -1,0 +1,5 @@
+A Parallel K-Medoids Algorithm for Clustering based on MapReduce
+
+k-medoids,canopy algorithm,max-min distance algorithm,mapreduce
+
+K-Medoids algorithm is a partition-based algorithm, which has the characteristics of simple implementation, strong robustness, and high accuracy. However, it has some disadvantages, such as strong dependence on the selection of initial center, the unknown number of classification K, high resource cost of frequent iteration of the algorithm, and poor clustering effect for mass data. In order to solve these problems, the original K-Medoids algorithm was improved by introducing the Canopy algorithm and the Max-Min distance algorithm, and K points were selected as the initial center of the cluster. In the era of big data, we use the MapReduce computing framework to parallelize the algorithm. The experimental results show that: the improved clustering algorithm not only has a good speedup, but also improves the clustering accuracy and convergence, and shows a large performance advantage in dealing with large-scale data.

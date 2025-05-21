@@ -1,0 +1,5 @@
+Comparative Study of Different Classification Techniques: Heart Disease Use Case
+
+weka, dynamic system, classification, machine learning techniques, heart disease
+
+Common stream mining tasks include classification, clustering and frequent pattern mining among them, data stream classification has drawn particular attention due to its vast real-time application. Through these applications, the main goal is to efficiently build classification models from data streams for accurate prediction. The development of such model has shown the need for machine learning techniques to be applied to large scale data. A range of machine learning techniques exists and the selection of the accurate techniques is based on advantages and limits of each one and how these latter well addresses important research techniques. In this paper, we present the comparison of different classification techniques using WEKA in order to investigate the performance of a collection of classification algorithms. This comparison shows the support vector machine performance with higher accuracy and better results when classifying our dataset.

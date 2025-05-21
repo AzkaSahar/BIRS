@@ -1,0 +1,5 @@
+Learner Engagement Measurement and Classification in 1:1 Learning
+
+engagement detection; feature selection; classification; machine learning
+
+We explore the feasibility of measuring learner engagement and classifying the engagement level based on machine learning applied on data from 2D/3D camera sensors and eye trackers in a 1:1 learning setting. Our results are based on nine pilot sessions held in a local high school where we recorded features related to student engagement while consuming educational content. We label the collected data as Engaged or NotEngaged while observing videos of the students and their screens. Based on the collected data, perceptual user features (e.g., body posture, facial points, and gaze) are extracted. We use feature selection and classification methods to produce classifiers that can detect whether a student is engaged or not. Accuracies of up to 85-95% are achieved on the collected dataset. We believe our work pioneers in the successful classification of student engagement based on perceptual user features in a 1:1 authentic learning setting.

@@ -1,0 +1,5 @@
+A Better Case Adaptation Method for Case-Based Effort Estimation Using Multi-Objective Optimization
+
+multi-objective particle swarm optimization, case-based reasoning, adaptation method, software effort estimation
+
+Case-Based Reasoning (CBR) is considered as one of the efficient methods in the area of software effort estimation because of its outstanding performance and capability of handling noisy datasets. This study examines the performance of multi-objective Particle Swarm Optimization algorithm to find the best configuration parameters for the adaptation process. Particularly, we propose a new adaptation method for which its parameters can be optimized by making trade off between multiple accuracy measures. The proposed adaptation is fully automated and able to dynamically adapt each case in the dataset individually. Based on empirical validation over 8 datasets, the performance figures have seen good improvements against conventional CBR and some adapted versions of CBR.

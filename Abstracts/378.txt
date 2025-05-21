@@ -1,0 +1,5 @@
+Classification of Pollen Grain Images Based on an Ensemble of Classifiers
+
+palynology,pollen classification,image descriptors,classifier ensemble
+
+The recognition of pollen grains is a challenging task since they are three-dimensional structures with complex morphological characteristics. Palynologists are responsible for studying pollen, spores and similar microscopic plant structures. In this work, we develop and analyze an automatic method for classification of pollen grain images based on a set of features and classifiers. Predictions of different classifiers are fused into an ensemble rule of majority voting. Experiments conducted on two datasets containing different types of pollen grains are used to demonstrate the effectiveness of the proposed approach.

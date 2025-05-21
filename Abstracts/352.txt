@@ -1,0 +1,5 @@
+Deep Learning Based Car Damage Classification
+
+automobiles,training,feature extraction,machine learning,support vector machines,glass
+
+Image based vehicle insurance processing is an important area with large scope for automation. In this paper we consider the problem of car damage classification, where some of the categories can be fine-granular. We explore deep learning based techniques for this purpose. Initially, we try directly training a CNN. However, due to small set of labeled data, it does not work well. Then, we explore the effect of domain-specific pre-training followed by fine-tuning. Finally, we experiment with transfer learning and ensemble learning. Experimental results show that transfer learning works better than domain specific fine-tuning. We achieve accuracy of 89.5% with combination of transfer and ensemble learning.

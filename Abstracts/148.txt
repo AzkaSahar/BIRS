@@ -1,0 +1,5 @@
+Investigating Eating Behaviours Using Topic Models
+
+topic models,nutrition,routine behaviours,unsupervised learning,snacks
+
+Chronic conditions, such as diabetes and obesity are related to quality of diet. However, current research findings are conflicting with regards to the impact of snacking on diet quality. One reason for this is the lack of a clear definition of a snack or a meal. This paper presents a novel approach to understanding how foods are grouped together in eating events using a machine learning algorithm, topic models. Approaches for applying topic models to a nutrition application are discussed. A topic model is implemented for the UK National Diet and Nutrition Survey Rolling Programme dataset. The results demonstrate that the topics found are representative of typical eating events in terms of food group content and associated time of day. There is a strong potential for topic models to reveal useful patterns in food diary data that have not previously been considered.

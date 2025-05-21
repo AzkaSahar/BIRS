@@ -1,0 +1,5 @@
+Domain Ontology Induction Using Word Embeddings
+
+language modeling,deep learning,natural language processing,ontology learning,word vectors,clustering,latent semantic indexing
+
+Ontology, the shared formal conceptualization of domain information, has been shown to have multiple applications in modeling, processing and understanding natural language text. In this work, we use distributed word vectors out of various recent language models from Deep Learning for semi-automated domain ontology creation for closed domains. We cover all major aspects of Domain Ontology Induction or Learning like concept identification, attribute identification, taxonomical and non-taxonomical relationship identification using the distributed word vectors. Preliminary results show that simple clustering based methods using distributed word vectors from these language models outperforms methods using models like LSI in ontology learning for closed domains.

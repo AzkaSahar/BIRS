@@ -1,0 +1,5 @@
+Intelligent Crude Oil Price Forecaster
+
+gaussian process, ensemble learning, online learning, crude oil price forecasting, linear regression, support vector machine, decision tree
+
+We propose two ensemble regression algorithms for forecasting the daily price of crude oil from features extracted from the U.S. Energy Administration and some international news agencies. An ensemble regression model consists of a group of homogeneous regressors with varying parameters, e.g. Linear regression models with different ridge regularization parameters. The first ensemble method called "recent leader" picks the individual regressor with least mean square error over recent data. The second model called "exponentially weighted ensemble" combines individual regressors in a linear fashion with weights of constituent models decaying exponentially with the mean square error over past predictions. These two methods were tested with linear regression, support vector regression, decision trees and Gaussian processes. Exponentially weighted ensemble with support vector regression had the best performance.

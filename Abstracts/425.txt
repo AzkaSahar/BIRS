@@ -1,0 +1,5 @@
+Student Retention Pattern Prediction Employing Linguistic Features Extracted from Admission Application Essays
+
+educational data mining,student retention,application essay,linguistic features,predictive analysis
+
+This paper investigates the use of linguistic features extracted from the application essays of students enrolled in a university academic program for their retention pattern prediction. Three sets of linguistic features are generated from text analysis: (1) latent Dirichlet allocation (LDA) based topic modeling with a variety of topic numbers, (2) Linguistic Inquiry and Word Count (LIWC), and (3) part-of-speech (POS) distribution. Various classification experiments are implemented to evaluate the prediction performance of student retention patterns from these three feature sets and their combinations. The results show that the POS distribution features yield the best prediction performance among these three, while neither the LDA features nor ensemble methods improves predictive performance, which is contrary to admission experts' manual analysis methods in the conventional admission processes.

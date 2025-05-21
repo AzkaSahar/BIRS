@@ -1,0 +1,5 @@
+Adaptive Fuzzy Prediction for Automotive Applications Usage
+
+vehicles,cruise control,fuzzy systems,fuzzy logic,road transportation,context,artificial intelligence
+
+Modern automobiles are increasingly complicated machines with an ever-increasing number of features. Understanding how these features work, when to use them, and in general how to make the best use of your vehicle is not a simple task. This research presents an evolving fuzzy system that personalizes the fuzzy membership functions based on individual driving habits. The system was successfully applied to estimate the likelihood of a driver using cruise control based on past usage preferences, current context, and recent driving history. Experimental results show that the proposed fuzzy system can learn the membership functions adaptively according to the driving behavior, and predicts the cruise control usage with high confidence.

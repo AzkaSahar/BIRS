@@ -1,0 +1,5 @@
+Adaptive Thresholding and Reweighting to Improve Domain Transfer Learning for Unbalanced Data with Applications to EEG Imbalance
+
+transfer learning,imbalance,adaptive threshold
+
+Domain adaptation methods can be highly sensitive to class balance, particularly the usually unknown balance of the unlabeled test set. In this work, we analyze the effect of imbalance on a well-known algorithm, ARTL (Adaptation Regularization Transfer Learning) and propose four approaches for mitigating the adverse effects of imbalance. These include (1) balancing the training set for pseudo-label calculation, (2) applying adaptive thresholding to pseudo-label calculation, (3) using class reweighting in the optimization objective, and (4) applying adaptive thresholding to the output objective. We tested these methods with the UCI newsgroup dataset and on three types of imbalanced EEG (electroencephalogram) classification problems. We observed significant improvements, particularly for cases of extreme imbalance, which are not well addressed by standard classification techniques.

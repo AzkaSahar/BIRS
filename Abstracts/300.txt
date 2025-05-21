@@ -1,0 +1,5 @@
+Extending Soft Sets towards the Optimality of Decision Based on Multiple Decisions over the Same Data
+
+decision making,fuzzy logic,soft sets,fuzzy operations
+
+Soft sets are integrated with fuzzy logic in this paper and this research work further extends the Cagman's work on soft sets.It makes parametric values associated with every individual object of Extended Soft Set in fuzzy form. This increases the decision capability of soft sets approach to distinguish one object from another based on their fuzzy parameter values. Further, we prove several fuzzy soft operations based on a new concept. Furthermore, we provide the concept of and-row operation which describes the product of soft sets with fuzzy parameter values. Then the sum operation on and-row product construct a decision making approach. This increases the capability for multiple decision makers on the same data to reach the final selection based on their individual conclusion.

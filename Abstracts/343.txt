@@ -1,0 +1,5 @@
+Sequential Pattern Based Temporal Contour Representations for Content-Based Multimedia Timeline Analysis
+
+sequential pattern,multimedia structure analysis,multimedia signal processing,contour representations
+
+Temporal contour shapes are closely linked to the narrative structure of multimedia content and provide important reference points in content-based multimedia timeline analysis. In this paper, multimedia timeline is extracted from content as time varying video and audio signal features. A temporal contour representation is implemented based on sequential pattern discovery algorithm for modeling the variation contours of multimedia features. The proposed contour representation extracts repetitive temporal patterns from a hierarchy of time resolutions or from synchronized video/audio feature dimensions. The statistically significant contour components, depicting the dominant timeline shapes, are utilized as a structural or analytical representation of the timeline. The modeling performance of this proposed temporal modeling framework is demonstrated through empirical validation and subjective evaluations.

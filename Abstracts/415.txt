@@ -1,0 +1,5 @@
+A Learning Framework for Control-Oriented Modeling of Buildings
+
+modeling,control,deep learning,buildings
+
+Buildings consume almost 40\% of energy in the US. In order to optimize the operation of buildings, models that describe the relationship between energy consumption and control knobs such as set-points with high predictive capability are required. Data driven modeling techniques have been investigated to a somewhat limited extent for optimizing the operation and control of buildings. In this context, deep learning techniques such as Recurrent Neural Networks (RNNs) hold promise, empowered by advanced computational capabilities and big data opportunities. This paper investigates the use of deep learning for modeling the power consumption of building heating, ventilation and air-conditioning (HVAC) systems. A preliminary analysis of the performance of the methodology for different architectures is conducted. Results show that the proposed methodology outperforms other data driven modeling techniques significantly.

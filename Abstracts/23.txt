@@ -1,0 +1,5 @@
+Facial expression recognition using kinect depth sensor and convolutional neural networks
+
+convolutional neural networks (cnn), facial expression recognition
+
+Facial expression recognition is an active area of research with applications in the design of Human Computer Interaction (HCI) systems. In this paper, we propose an approach for facial expression recognition using deep convolutional neural networks (CNN) based on features generated from depth information only. The Gradient direction information of depth data is used to represent facial information, due its invariance to distance from the sensor. The ability of a convolutional neural networks (CNN) to learn local discriminative patterns from data is used to recognize facial expressions from the representation of unregistered facial images. Experiments conducted on EURECOM kinect face dataset demonstrate the effectiveness of the proposed approach.

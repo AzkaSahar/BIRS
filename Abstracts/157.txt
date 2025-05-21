@@ -1,0 +1,5 @@
+Prediction of SPEI Using MLR and ANN: A Case Study for Wilsons Promontory Station in Victoria
+
+multi-linear regression model,artifial neural network model,standardized precipitation index,drought modelling
+
+The prediction of drought is of major importance in climate-related studies, hydrologic engineering, wildlife or agricultural studies. This study explores the ability of two machine learning methods to predict 1, 3, 6 and 12 months standardized precipitation and evapotranspiration index (SPEI) for the Wilsons Promontory station in Eastern Australia. The two methods are multiple linear regression (MLR) and artificial neural networks (ANN). The data-driven models were based on combinations of the input variables: mean precipitations, mean, maximum and minimum temperatures and evapotranspiration, for data between 1915 and 2012. Two performance metrics were used to compare the performance of the optimum MLR and ANN models: the coefficient of determination (R2) and the root mean square error (RMSE). It was found that ANN provided greater accuracy than MLR in forecasting the 1, 3, 6 and 12 months SPEI.

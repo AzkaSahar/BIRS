@@ -1,0 +1,5 @@
+One-shot periodic activity recognition using Convolutional Neural Networks
+
+human activity recognition, convolutional neural networks (cnn)
+
+Activities capture vital facts for the semantic analysis of human behavior. In this paper, we propose a method for recognizing human activities based on periodic actions from a single instance using convolutional neural networks (CNN). The height of the foot above the ground is considered as features to discriminate human locomotion activities. The periodic nature of actions in these activities is exploited to generate the training cases from a single instance using a sliding window. Also, the capability of a convolutional neural network to learn local visual patterns is exploited for human activity recognition. Experiments on Carnegie Mellon University (CMU) Mocap dataset demonstrate the effectiveness of the proposed approach.

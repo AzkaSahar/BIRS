@@ -1,0 +1,5 @@
+NewsCubeSum: A Personalized Multidimensional News Update Summarization System
+
+dh-hemts,conferences,integrated circuits
+
+Popular online publishers produce huge amount of news articles every day, so it is important to summarize the most up-to-the-minute information to help users quickly know the progresses of their interested news events. In this paper, we develop NewsCubeSum, a novel personalized news summarization system utilizing OLAP and supervised sentence selection techniques to generate brief summaries delivering news updates in multiple dimensions (such as time, entity, and topic). An illustrative case study and experimental results on summarization performance comparisons are provided to show the effectiveness of NewsCubeSum.

@@ -1,0 +1,5 @@
+Investigating Sentimental Relation between Social Media Presence and Academic Success of Turkish Universities
+
+urap rankings, social networks, sentiment analysis, twitter, academic success, turkish universities
+
+In this study an approach that uses social networking data for developing sentiment analysis system is proposed. With the help of developed software, it is tried to find out whether there is any relation between universities' academic success and sentiment of the public about them in social media. After collecting enough text based data from Twitter, preprocessing of data is carried out and final data is trained by means of Nai¨ve Bayes Classifier. After testing process, experimental results have shown that developed sentiment analysis system can classify the tweets about top 10 universities according to URAP rankings in terms of their sentiment with the 72.33% success rate, and proposed methodology can be used by universities for understanding sentiment of the public about them in social media.

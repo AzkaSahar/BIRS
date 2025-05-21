@@ -1,0 +1,5 @@
+Probabilistic Expert Systems for Reasoning in Clinical Depressive Disorders
+
+bayesian networks,probability,expert systems,depressive disorders,inferential reasoning,graphical models
+
+Like other real-world problems, reasoning in clinical depression presents cognitive challenges for clinicians. This is due to the presence of co-occuring diseases, incomplete data, uncertain knowledge, and the vast amount of data to be analysed. Current approaches rely heavily on the experience, knowledge, and subjective opinions of clinicians, creating scalability issues. Automating this process requires a good knowledge representation technique to capture the knowledge of the domain experts, and multidimensional inferential reasoning approaches that can utilise a few bits and pieces of information for efficient reasoning. This study presents knowledge-based system with variants of Bayesian network models for efficient inferential reasoning, translating from available fragmented depression data to the desired information in a visually interpretable and transparent manner. Mutual information, a Conditional independence test-based method was used to learn the classifiers.

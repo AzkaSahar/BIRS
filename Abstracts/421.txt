@@ -1,0 +1,5 @@
+A Review of Deep Learning Methods Applied on Load Forecasting
+
+artificial neural networks,forecasting,learning (artificial intelligence),machine learning,smart grids
+
+The utility industry has invested widely in smart grid (SG) over the past decade. They considered it the future electrical grid while the information and electricity are delivered in two-way flow. SG has many Artificial Intelligence (AI) applications such as Artificial Neural Network (ANN), Machine Learning (ML) and Deep Learning (DL). Recently, DL has been a hot topic for AI applications in many fields such as time series load forecasting. This paper introduces the common algorithms of DL in the literature applied to load forecasting problems in the SG and power systems. The intention of this survey is to explore the different applications of DL that are used in the power systems and smart grid load forecasting. In addition, it compares the accuracy results RMSE and MAE for the reviewed applications and shows the use of convolutional neural network CNN with k-means algorithm had a great percentage of reduction in terms of RMSE.

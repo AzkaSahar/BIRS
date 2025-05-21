@@ -1,0 +1,5 @@
+Improving Named Entity Recognition for Morphologically Rich Languages using Word Embeddings
+
+czech ner, named entity recognition, word embeddings, skip-gram, turkish ner
+
+In this paper, we addressed the Named Entity Recognition (NER) problem for morphologically rich languages by employing a semi-supervised learning approach based on neural networks. We adopted a fast unsupervised method for learning continuous vector representations of words, and used these representations along with language independent features to develop a NER system. We evaluated our system for the highly inflectional Turkish and Czech languages and obtained better F-score performances than the previously published results for these languages. We improved the state-of-the-art F-score by 2.26% for Turkish and 1.53% for Czech. Unlike the previous state-of-the-art systems developed for these languages, our system does not make use of any language dependent features. Therefore, we believe it can easily be applied to other morphologically rich languages.

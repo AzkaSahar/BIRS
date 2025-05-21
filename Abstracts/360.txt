@@ -1,0 +1,5 @@
+Machine Learning in Appearance-based Robot Self-localization
+
+machine learning,mobile robot self-localization,appearance-based learning,deep learning,manifold learning
+
+An appearance-based robot self-localization problem is considered in the machine learning framework. The appearance space is composed of all possible images, which can be captured by a robot's visual system under all robot localizations. Using recent manifold learning and deep learning techniques, we propose a new geometrically motivated solution based on training data consisting of a finite set of images captured in known locations of the robot. The solution includes estimation of the robot localization mapping from the appearance space to the robot localization space, as well as estimation of the inverse mapping for modeling visual image features. The latter allows solving the robot localization problem as the Kalman filtering problem.

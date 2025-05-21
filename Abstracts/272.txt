@@ -1,0 +1,5 @@
+Are Accuracy and Robustness Correlated
+
+neural networks,robustness,measurement,training,computational modeling,error analysis,agriculture
+
+Machine learning models are vulnerable to adversarial examples formed by applying small carefully chosen perturbations to inputs that cause unexpected classification errors. In this paper, we perform experiments on various adversarial example generation approaches with multiple deep convolutional neural networks including Residual Networks, the best performing models on ImageNet Large-Scale Visual Recognition Challenge 2015. We compare the adversarial example generation techniques with respect to the quality of the produced images, and measure the robustness of the tested machine learning models to adversarial examples. Finally, we conduct large-scale experiments on cross-model adversarial portability. We find that adversarial examples are mostly transferable across similar network topologies, and we demonstrate that better machine learning models are less vulnerable to adversarial examples.

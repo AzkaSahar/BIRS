@@ -1,0 +1,5 @@
+Speaker Identification in Medical Simulation Data Using Fisher Vector Representation
+
+speaker identification,gaussian mixture model (gmm),fisher vector (fv) feature representation,k-nearest neighbor classifier (knn),support vector machines (svm)
+
+We present a robust speaker identification algorithm that uses effective features based on Fisher Vector (FV) representations. First, low-level spectral features are extracted from the training data. Next, we model the data (in the spectral feature space) by a mixture of Gaussian components. Then, we construct FV descriptors based on the deviation of the features from the Gaussian components. We analyze the FV feature representations on speech data with two common classifiers: K-nearest neighbor classifier (KNN) and support vector machines (SVM). The proposed approach is evaluated using audio data sets recorded to simulate medical crises. We show that the proposed FV feature representation approach achieves a significant improvement when compared to the state-of-art methods.

@@ -1,0 +1,5 @@
+Stochastic Primal-Dual Method on Riemannian Manifolds of Bounded Sectional Curvature
+
+primal dual algorithm,principle component analysis, anchored synchronization
+
+We study a stochastic primal-dual method for optimizing functions on elliptic (sub)manifolds- Riemannian (sub)manifolds with a positive bounded sectional curvature. In particular, we establish a convergence rate for geodesically convex functions that is related to the lower bound on the sectional curvature. The convergence analysis we present is based on Toponogov's comparison theorem, where geodesic triangles on the elliptic manifolds and a sphere are compared. We numerically demonstrate the performance of the proposed stochastic primal-dual algorithm on the sphere for non-negative principle component analysis (PCA), and on the Lie group SO(3) for the anchored localization from partial noisy measurements of relative rotations. In both applications, the proposed algorithm scales gracefully to high dimensions.

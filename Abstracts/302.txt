@@ -1,0 +1,5 @@
+Analysis for Status of the Road Accident Occurance and Determination of the Risk of Accident by Machine Learning in Istanbul
+
+machine learning,data mining,classification techniques,road accident
+
+The traffic has been transformed into the difficult structure in points of designing and managing by the reason of increasing number of vehicle. This situation has discovered road accidents problem, influenced public health and country economy and done the studies on solution of the problem. Large calibrated data agglomerations have increased by the reasons of the technological improvements and data storage with low cost. Arising the need of accession to information from this large calibrated data obtained the corner stone of the data mining. In this study, assignment of the most compatible machine learning classification techniques for road accidents estimation by data mining has been intended.

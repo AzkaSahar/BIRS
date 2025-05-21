@@ -1,0 +1,5 @@
+Improving Spectral Learning by Using Multiple Representations
+
+representation, spectral learning, discrete fourier, basis selection, ensemble
+
+Spectral learning algorithms learn an unknown function by learning a spectral (e.g., Fourier) representation of the function. However, there are many possible spectral representations, none of which will be best in all situations. Consequently, it seems natural to consider how a spectral learner could make use of multiple representations when learning. This paper proposes and compares three approaches to learning from multiple spectral representations. Empirical results suggest that an ensemble approach to multi-spectrum learning, in which spectral models are learned independently in each of a set of candidate representations and then combined in a majority-vote ensemble, works best in practice.

@@ -1,0 +1,5 @@
+Optimized Small-Scaled Hybrid Energy Management of a Smart House Based on Genetic Algorithm
+
+renewable energy,energy management,genetic algorithm
+
+Renewable energy sources provide both electricity and heating for experimental smart house located at renewable energy test site at Nazarbayev University. Smart house's electric and heating subsystems are supplied by PV cells and solar thermal heater respectively. Partially the system consumes the electricity from utility grid. The dynamics of the system consists of electrical and thermal parts based on the state of charge of accumulator battery stack and temperatures of the heating system and smart house itself. The goal of designed control is to maintain the states of the system inside of required ranges and simultaneously to minimize the expenses for power consumption from utility grid. The task of minimization is solved using genetic algorithm. The simulation results are obtained in MATLAB and confirm the efficiency of designed control.

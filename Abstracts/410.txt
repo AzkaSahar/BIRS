@@ -1,0 +1,5 @@
+Privacy Preserving Record Linkage Using MetaSoundex Algorithm
+
+data mining,metasoundex,privacy,record linkage,soundex
+
+Integration of records referring to same entity aids to the resolution of conflicting data values, improves the quality of data, and facilitates sophisticated analysis in data mining. Frequently, record linkage includes integration of sensitive data, which invades personal privacy of an individual. As a result, privacy preserving record linkage (PPRL) has become the prime importance in matching and integrating records in Data Assurance/Security field. Encoding using phonetic codes for preserving privacy is one of the prominent approaches in record linkage techniques. In this paper, we proposed a hybrid protocol, known as MetaSoundex, for achieving privacy preserving record linkage using phonetic encoding. The experiments proved that the proposed technique has higher accuracy in record linkage than the widely-known phonetic matching technique, Soundex.

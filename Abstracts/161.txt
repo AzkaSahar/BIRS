@@ -1,0 +1,5 @@
+A Novel Study for the Modeling of Monthly Evaporation Using K-Nearest Neighbor Algorithms for a Semi-Arid Continental Climate
+
+machine learning algorithms,k-nn,evaporation,semi-arid climate
+
+This study aims to reveal a reliable and efficient method for predicting the monthly evaporation. For this purpose, the accuracy of machine learning algorithms, MLA, that include k-nearest neighbor, k-NN, was used in modeling monthly evaporation. The tenfold cross-validation approach was employed to determine the performances of prediction methods for MLA. The results revealed that k-NN algorithms outperformed the other MLA (ANN and SVM), with the R value of 0.95, the RMSE value of 1.01 mm, MAE value of 0.78 mm, and RME value of 0.04 mm. It is concluded that the suggested k-NN model can be successfully employed for predicting monthly evaporation for a semi-arid continental climate.

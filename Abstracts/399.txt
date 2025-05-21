@@ -1,0 +1,5 @@
+Granular Computing with Compatibility Based Intuitionistic Fuzzy Rough Sets 
+
+granular computing,intuitionistic fuzzy stes,rough sets
+
+In this paper, we are concerned with a problem related to granular computing with game theoretic intuitionistic fuzzy rough sets(GTIFRS). The game theoretic intuitionistic fuzzy rough sets is defined over compatibility based intuitionistic fuzzy relation. The imprecise information obtained, is considered to be composed of intuitionistic fuzzy granules. The basis of granulation is splitting intervals into several sub-intervals. A competitive situation arises due to movement of granules which is controlled by threshold parameters.

@@ -1,0 +1,5 @@
+Age Estimation from Fingerprints: Examination of the Population in Turkey
+
+knn, fingerprint, age, classification
+
+This paper focuses on a new approach to estimate ages from fingerprints. In the current study, a total number of 500 fingerprints from 10 fingers of 50 Turkish citizens were collected to estimate the ages of the participants from their fingerprints. Their full fingerprints were first taken and then the fingerprints were converted to binary images. Then, a matrix of 1×153600 was achieved from the binary images. Based on these distances, the fingerprint data were classified using KNN classification algorithm. An average success rate of 93.3% was obtained in males aged between 18-24 while 83.0% average success rate was obtained in females in the same age group. The initial results have shown that the proposed new method is very successful in estimating ages from fingerprints. It is expected that the proposed method will find more attentions especially for criminal cases.

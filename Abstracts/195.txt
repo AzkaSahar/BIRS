@@ -1,0 +1,5 @@
+Interpretable Classifier for Identifying High-Value Child Support Cases
+
+child support,case management,decision support,data analytics,predictive scoring systems,interpretable modeling
+
+This work brings interpretable and accurate data analytics to child support agencies with the goal of substantially increasing their effectiveness. In the realm of child support, a custodial parent may be entitled to periodic child support payments from the noncustodial parent. In order to analyze this process, we have gathered case data from several child support agencies. The objective of the work is to develop analytical models that characterize and predict high-value child support cases. High-value cases are those that result in successful payments and require far fewer resources for enforcement. We create interpretable and accurate scoring models to identify these cases so that the key attributes driving their prediction are easily understood by the caseworkers. This information may be integrated with case management systems to schedule and prioritize the caseload.

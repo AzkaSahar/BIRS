@@ -1,0 +1,5 @@
+Budgeted Learning for Developing Personalized Treatment
+
+reinforcement learning, budgeted learning, bayesian, active learning, personalized treatment
+
+There is increased interest in using patient-specific information to  personalize treatment. Personalized treatment decision rules can be learned using data from standard clinical trials, but such trials are very costly to run. This paper explores the use of budgeted learning techniques to design more efficient clinical trials, by effectively determining which type of patients to recruit, at each time, throughout the duration of the trial. We propose a Bayesian bandit model and discuss the computational challenges and issues pertaining to this approach. We compare our budgeted learning algorithm, which approximately minimizes the Bayes risk, using both simulated data and data modeled after a clinical trial for treating depressed individuals, with other plausible algorithms. We show that our budgeted learning algorithm demonstrated excellent performance across a wide variety of situations.

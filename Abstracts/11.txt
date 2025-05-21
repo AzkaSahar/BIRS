@@ -1,0 +1,5 @@
+Activity Recognition Using Graphical Features
+
+smart environment, activity recognition, graph representation
+
+Activity Recognition is important in order to facilitate elderly residents and their caregivers needs. This problem has been widely investigated using different methods including probabilistic and Markovian approaches. The focus of this paper is to perform activity recognition more accuractely than existing approaches. We represent motion sensors of smart environments in a graph and residents movements as edges in the graph.Then graph-based features are extracted and used as input for a Support Vector Machine. These features have been combined with motion-sensor based features. This method has been compared with three other widely used approaches, Naive Bayes, Hidden Markov Model (HMM) and Conditional Random Fields (CRF) on three different datasets from three smart aparments. In all cases, the method based on graphical features outpeformed existing approaches.

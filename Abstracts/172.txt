@@ -1,0 +1,5 @@
+An Interval-Radial Algorithm for Hierarchical Clustering Analysis
+
+hierarchical clustering,interval-radial algorithm,efficiency,flexibility
+
+Hierarchical clustering analysis (HCA) produces a structure that is more informative than an unstructured set of clusters. However, the advantage comes at the cost of lower efficiency. In analyzing large dataset with HCA, it is important to improve its efficiency. Motivated by the fact that small quantitative differences may not necessarily reflect changes of qualitative property, we report an interval-radial algorithm for HCA. By grouping data points within a neighborhood, the interval-radial algorithm is O(N^2) for both agglomerative and divisive approaches under an easy to satisfy weak condition. The algorithm can adaptively adjust radius during its execution. Furthermore, the algorithm provides flexibility to users for them to select initial radius and step size such that to produce customized output automatically. We report the algorithm, its analysis, and results of computational experiments on several benchmark datasets. Examples and illustrative dendrograms are included.

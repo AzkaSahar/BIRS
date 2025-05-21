@@ -1,0 +1,5 @@
+Stacking Methods for Hierarchical Classification
+
+hierarchical classification,bioinformatics,stacking
+
+Hierarchical Classification (HC) consists of classification problems whose classes are structured in a hierarchical fashion. Many problems are addressed by HC, in special a decent amount of works dealt with bioinformatics related problems such as Protein Function Prediction (PFP) and Transposable Elements (TEs) classification. Both of them are still a challenging task for HC due to the noisy and imbalanced nature of the datasets. As a countermeasure, Stacking is an ensemble method capable of generalizing knowledge from many classifiers. In this work, we propose three Stacking methods for HC and evaluate its performance on PFP and TEs datasets. Our results show that, when compared to regular Stacking and state-of-art methods from the literature, our methods are able to obtain superior or competitive performances.

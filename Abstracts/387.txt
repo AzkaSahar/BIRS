@@ -1,0 +1,5 @@
+NMF-Based Label Space Factorization for Multi-label Classification
+
+multi-label classification,non negative matrix factorization,feature aware
+
+Multi-label classification is a learning task in which each data sample can belong to more than one class. Until now, some methods that are based on reducing the dimensionality of the label space have been proposed. However, these methods have not used specific properties of the label space for this purpose. In this paper, we intend to find a hidden space in which both the input feature vectors and the label vectors are embedded. We propose a modified Non-Negative Matrix Factorization (NMF) method that is suitable for decomposing the label matrix and finding a proper hidden space by a feature-aware approach. We consider that the label matrix is binary and also in this matrix some deserving labels for an instance may not be on (called missing labels). We conduct several experiments and show the superiority of our proposed methods to the state-of-the-art multi- label classification methods.

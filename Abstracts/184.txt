@@ -1,0 +1,5 @@
+Achievements Recommendation Framework Based on Scientific Collaboration Network
+
+recommender systems,collaboration network,clustering,achievements information
+
+With the rapid growth of the Internet, vast amounts of data available and in other digital repositories make it challenging for users to find the right sources of information. This study presents a hierarchical recommendation framework that enriches the domain ontologies and retrieves more relevant information resources. In this paper, we analyze the features of achievements information related to the scientific and technological domains, and then build an ontology that represents their latent collaborative relations and detect clusters from the collaboration network. We conduct a case study to collect a data set of research achievements in electric vehicle field and better clustering results are obtained. This work also lays out a novel insight into the exploitation of scientific collaboration network to better classify achievements information.

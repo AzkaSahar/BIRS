@@ -1,0 +1,5 @@
+Prediction of Power Grid Failure Using Neural Network Learning 
+
+power grid analysis,neural network,saidi forecast,binary classification,machine learning application,smart cities
+
+Power Grid failures have the potential to drastically affect the population be it a localized outage or a large-scale blackout. Pre-event planning currently consists of preparation for all scenarios and some enthusiastic prognoses, leading to most resources spreading thin. Focus on a specific area of concern typically follows large scale power grid failures as post event analysis and does not include an overall analysis. In this study, a neural network is used to conduct “pre-event” analysis of a power grid to determine if it is susceptible to failure. This research study demonstrates that overall “pre-event” analysis can be beneficial with the use of a machine learning agent. The agent can also be used to determine areas that need the most attention. Future work with larger number of constraints and additional machine learning algorithms will be explored to further improve power grid analysis and performance.

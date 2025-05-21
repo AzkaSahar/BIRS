@@ -1,0 +1,5 @@
+Conformalized Kernel Ridge Regression
+
+kernel ridge regression,gaussian process regression,conformal prediction,confidence region
+
+General predictive models do not provide a measure of confidence in predictions without Bayesian assumptions. A way to circumvent potential restrictions is to use conformal methods for constructing non-parametric confidence regions, that offer guarantees regarding validity. In this paper we provide a detailed description of a computationally efficient conformal procedure for Kernel Ridge Regression (KRR), and conduct a comparative numerical study to see how well conformal regions perform against the Bayesian confidence sets. The results suggest that conformalized KRR can yield predictive confidence regions with specified coverage rate, which is essential in constructing anomaly detection systems based on predictive models.

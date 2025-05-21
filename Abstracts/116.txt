@@ -1,0 +1,5 @@
+Statistical Learning via Manifold Learning
+
+statistical learning,manifold learning,tangent bundle manifold learning,manifold learning regression
+
+A new geometrically motivated method is proposed for solving the non-linear regression task consisting in constructing a predictive function which estimates an unknown smooth mapping f from q-dimensional inputs to m-dimensional outputs based on a given 'input-output' training pairs. The unknown mapping f determines q-dimensional Regression manifold M(f) consisting of all the (q+m)-dimensional 'input-output' vectors. The manifold is covered by a single chart, the training data set determines a manifold-valued sample from this manifold. Modern Manifold Learning technique is used for constructing the certain estimator M* of the Regression manifold from the sample which accurately approximates the Regression manifold. The proposed method called Manifold Learning Regression (MLR) finds the predictive function fMLR to ensure an equality M(fMLR) = M*. The MLR estimates also the m×q Jacobian matrix of the mapping f.

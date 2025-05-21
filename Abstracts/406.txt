@@ -1,0 +1,5 @@
+RBF-FIRMLP Architecture for Digit Recognition
+
+firmlp,neural networks,handwritten digit recognition,mnist,mnist variations,pattern recognition
+
+The finite impulse response multilayer perceptron (FIRMLP) is a multilayer perceptron where the static weights have been replaced by finite impulse response filters. Hereby, it represents a model for spatio-temporal processing. In this paper we present a temporal processing neural network which is based on the FIRMLP, but some layers have been replaced by temporal radial basis function (RBF) units. As training algorithm we used the temporal backpropagation not just for adapting the weights but also for finding the centers and widths of the RBF layers as well. The performance comparison have been done for the task of handwritten digit ecognition by using the MNIST and MNIST-Variations databases.

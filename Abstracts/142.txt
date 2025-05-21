@@ -1,0 +1,5 @@
+Transfer Learning of Air Combat Behavior
+
+reinforcement learning,transfer learning,air combat,training simulations,computer generated forces
+
+Machine learning techniques can help to automatically generate behavior for computer generated forces inhabiting air combat training simulations. However, as the complexity of scenarios increases, so does the time to learn optimal behavior. Transfer learning has the potential to significantly shorten the learning time between domains that are sufficiently similar. In this paper, we transfer air combat agents with experience fighting in 2-versus-1 scenarios to various 2-versus-2 scenarios. The performance of the transferred agents is compared to that of agents that learn from scratch in the 2v2 scenarios. The experiments show that the experience gained in the 2v1 scenarios is very beneficial in the plain 2v2 scenarios, where further learning is minimal. In difficult 2v2 scenarios transfer also occurs, and further learning ensues. The results pave the way for fast generation of behavior rules for air combat agents for new, complex scenarios using existing behavior models.

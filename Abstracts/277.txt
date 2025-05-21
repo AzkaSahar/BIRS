@@ -1,0 +1,5 @@
+Phase Identification in Electric Power Distribution Systems by Clustering of Smart Meter Data
+
+data mining,k-means clustering,phase identification,principal component analysis,smart meter
+
+Accurate network and phase connectivity models are crucial to distribution system analytics, operations and planning. Although network connectivity information is mostly reliable, phase connectivity data is typically missing or erroneous. In this paper, an innovative phase identification algorithm is developed by clustering of voltage time series gathered from smart meters. The feature-based clustering approach is adopted where principal component analysis is first carried out to extract feature vectors from the raw time series. A constrained k-means clustering algorithm is then executed to separate customers/smart meters into various phase connectivity groups. The algorithm is applied on a real distribution feeder in Southern California Edison's service territory. The accuracy of the proposed algorithm is over 90%.

@@ -1,0 +1,5 @@
+Nonlinear Metric Learning for Semi-Supervised Learning via Coherent Point Drifting
+
+semi-supervised learning,metric learning,cpd,alzheimer's disease
+
+In this paper, we propose a nonlinear metric learning framework to boost the performance of semi-supervised learning (SSL) algorithms. Constructed on top of Laplacian SVM (LapSVM), the proposed method learns a smooth nonlinear feature space transformation that makes the input data points more linearly separable. Coherent point drifting (CPD) is utilized as the geometric model with the consideration of its remarkable expressive power in generating sophisticated yet smooth deformations. Our framework has broad applicability, and it can be integrated with many other SSL classifiers than LapSVM. Experiments performed on synthetic and real world datasets show the effectiveness of our CPD-LapSVM over the state-of-the-art metric learning solutions in SSL.

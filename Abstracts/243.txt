@@ -1,0 +1,5 @@
+Robust Kernel Embedding of Conditional and Posterior Distributions with Applications
+
+bayesian inference,zero-shot learning,kernel methods
+
+This paper proposes a novel non-parametric method to robustly embed conditional and posterior distributions to reproducing Kernel Hilbert space (RKHS). Robust embedding is obtained by the eigenvalue decomposition in the RKHS. By retaining only the leading eigenvectors, the noise in data is methodically disregarded. The non-parametric conditional and posterior distribution embedding obtained by our method can be applied to a wide range of Bayesian inference problems. In this paper, we apply it to heterogeneous face recognition and zero-shot object recognition problems. Experimental validation shows that our method produces better results than the comparative algorithms.

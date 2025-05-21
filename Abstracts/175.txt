@@ -1,0 +1,5 @@
+Zero Shot Deep Learning from Semantic Attributes
+
+semantics,training,estimation,neural networks,taxonomy,visualization,support vector machines
+
+We study the problem of classifying images when no training exemplars are available for some image classes, and therefore direct classification is not possible. We use instead semantic attributes: if attributes of yet unseen classes can be determined, then class labels may themselves be decided based on prior knowledge of class to attributes relationships. We present several methods for determining attributes, including (A) an approach based on attribute classifiers, and approaches using (B) MAP and (C) MMSE attribute estimators using image classifiers for known classes. Preliminary tests obtained using a dataset comprised of ImageNet images and Human218 attributes yield encouraging performance.

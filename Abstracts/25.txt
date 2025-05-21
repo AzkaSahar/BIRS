@@ -1,0 +1,5 @@
+An Analysis of Instance Selection for Neural Networks to Improve Training Speed
+
+instance selection, neural networks, training speed
+
+Training Artificial Neural Networks (ANN) is relatively slow compared to many other machine learning algorithms.  In this study, we focus on instance selection to improve training speed.  We first evaluate the effectiveness of instance selection algorithms for k-nearest neighbor algorithms with ANN.  We then analyze factors in accuracy distance from decision boundary, dense regions, and class distributions, and propose new instance selection algorithms.  We discuss the tradeoff between accuracy and training speed, and introduce a measure for the tradeoff.  Our empirical results on real data sets indicate that our proposed RDI is more effective with ANN.

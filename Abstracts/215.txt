@@ -1,0 +1,5 @@
+Frequent Set Mining for Streaming Mixed and Large Data
+
+frequent set mining,discretization,large data,mixed data,streaming
+
+Frequent set mining is a well researched problem due to its application in many areas of data mining such as clustering, classification and association rule mining. Most of the existing work focuses on categorical and batch data and do not scale well for large datasets. In this work, we focus on frequent set mining for mixed data. We introduce a discretization methodology to find meaningful bin boundaries when itemsets contain at least one continuous attribute, an update strategy to keep the frequent items relevant in the event of concept drift, and a parallel algorithm to find these frequent items. Our approach identifies local bins per itemset, as a global discretization may not identify the most meaningful bins. Since the relationships between attributes my change over time, the rules are updated using a weighted average method. Our algorithm fits well in the Hadoop framework, so it can be scaled up for large datasets.

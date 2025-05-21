@@ -1,0 +1,5 @@
+Railway Incident Ranking with Machine Learning
+
+incident-ranking,railway-incidents,xgboost
+
+Modern railway networks include thousands of failure registration devices, and prompt response to detected failures is critical to normal network operation. However, a large share of produced alerts may be formed by false alarms associated with maintenance or faulty diagnostics, thus hindering the processing of actual failures. It is therefore very desirable to perform fast automated intelligent ranking of incidents before they are analyzed by human operators. In this paper we describe a machine-learning-based incident ranking model that we have developed and deployed at the Moscow Railway network (a large network with 500+ stations). The model estimates the probability of failure using multiple features of the incident at hand. The model was constructed using the XGBoost library and a database of 5 million historical incidents. The model shows high accuracy (AUC 0.901) in the deployment environment.

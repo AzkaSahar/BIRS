@@ -1,0 +1,5 @@
+Implementation of machine learning for classifying hemiplegic gait disparity through use of a force plate
+
+force plate, hemiplegic gait, logistic regression, machine learning, gait analysis
+
+The synergy of gait analysis tools with machine learning enables the capacity to classify disparity existing in hemiplegic gait. Hemiplegic gait is characterized by an affected and unaffected leg, which can be quantified by the measurement of a force plate. The characteristic features of the force plate recording for gait consist of a two local maxima that represent the braking and push off phase of stance and their associated parameters. The quantified features of a hemiplegic pair of affected and unaffected force plate recordings are intuitively disparate. Logistic regression achieves 100% classification between an affected and unaffected hemiplegic leg pair based on the feature set of the force plate data.

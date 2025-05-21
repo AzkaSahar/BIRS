@@ -1,0 +1,5 @@
+Anytime Exploitation of Stragglers in Synchronous Stochastic Gradient Descent
+
+distributed sgd,stochastic gradient descent,parallelized sgd,straggler
+
+In this paper we propose an approach to parallelizing synchronous stochastic gradient descent (SGD) that we term “Anytime-Gradients”. The Anytime-Gradients is designed to exploit the work completed by slow compute nodes or “stragglers”. In many approaches work completed by these nodes, while only partial, is discarded completely. To maintain synchronization in our approach, each computational epoch is of fixed duration, and at the end of each epoch, workers send updated parameter vectors to a master mode for combination. The master weights each update by the amount of work done. The Anytime-Gradients scheme is robust to both persistent and non-persistent stragglers and requires no prior knowledge about processor abilities. We show that the scheme effectively exploits stragglers and outperforms existing methods.

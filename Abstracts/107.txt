@@ -1,0 +1,5 @@
+Coordinate Descent Fuzzy Twin Support Vector Machine for Classification
+
+coordinate descent,fuzzy,active set shrinking,high-dimensional input,tsvm,svm
+
+In this paper, we develop a novel coordinate descent fuzzy twin SVM (CDFTSVM) for classification. The proposed CDFTSVM not only inherits the advantages of twin SVM but also leads to a rapid and robust classification results. Specifically, our CDFTSVM has two distinguished advantages: (1) An effective fuzzy membership function is produced for removing the noise incurred by the contaminant inputs. (2) A coordinate descent strategy with shrinking by active set is used to deal with the computational complexity brought by the high dimensional input. In addition, a series of simulation experiments are conducted to verify the performance of the CDFTSVM, which further supports our previous claims.

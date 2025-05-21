@@ -1,0 +1,5 @@
+Time Series Prediction Based on Robust Recurrent Kernel Online Learning
+
+real-time recurrent learning (rtrl),kernel online learning,weight convergence and robust stability,sparsification
+
+We propose a robust recurrent kernel online learning (RRKOL) algorithm based on the celebrated real-time recurrent learning (RTRL) approach that exploits the kernel trick in a recurrent online training manner. The RRKOL algorithm automatically weights the regularized term in the recurrent loss function such that we not only minimize the estimation error but also improve the generalization performance via sparsification with simulation support.

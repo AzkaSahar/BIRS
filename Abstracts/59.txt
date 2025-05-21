@@ -1,0 +1,5 @@
+Improved kNN Rule for Small Training Sets
+
+error analysis, training, prediction algorithms, data models, computer science, educational institutions, electronic mail
+
+The traditional k-NN classification rule predicts a label based on the most common label of the k nearest neighbors (the plurality rule). It is known that the plurality rule is optimal when the number of examples tends to infinity. In this paper we show that the plurality rule is sub-optimal when the number of labels is large and the number of examples is small. We propose a simple k-NN rule that takes into account the labels of all of the neighbors, rather than just the most common label. We present a number of experiments on both synthetic datasets and real-world datasets, including MNIST and SVHN. We show that our new rule can achieve lower error rates compared to the majority rule in many cases.

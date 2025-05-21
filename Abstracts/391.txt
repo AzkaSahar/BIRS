@@ -1,0 +1,5 @@
+EyeQual: Accurate, Explainable, Retinal Image Quality Assessment
+
+weakly supervised learning,multiple instance learning,medical image analysis,retinal image,quality assessment
+
+Given a retinal image, can we automatically determine whether it is of high quality (suitable for medical diagnosis)? Can we also explain our decision, pinpointing the region or regions that led to our decision? Images from human retinas are vital for the diagnosis of multiple health issues, like hypertension, diabetes, and Alzheimer's; low quality images may force the patient to come back again for a second scanning, wasting time and possibly delaying treatment. However, existing retinal image quality assessment methods are either black boxes without explanations of the results or depend heavily on feature engineering or on complex and error-prone anatomical structures' segmentation. Therefore, we propose EyeQual, that solves exactly this problem. EyeQual is novel, fast for inference, accurate and explainable, pinpointing low-quality regions on the image. We evaluated EyeQual on two real datasets where it achieved 100% accuracy taking just 36 milliseconds for each image.

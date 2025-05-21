@@ -1,0 +1,5 @@
+SMS Spam Filtering Through Optimum-Path Forest-Based Classifiers
+
+optimum-path forest,sms spam
+
+In the past years, SMS messages have shown to be a profitable revenue to the cell-phone industries, being one of the most used communication systems to date. However, this very same scenario has led spammers to concentrate their attentions into spreading spam messages through SMS, thus achieving some success due to the lack of proper tools to cope with this problem. In this paper, we introduced the Optimum-Path Forest classifier to the context of spam filtering in SMS messages, as well as we compared it against with some state-of-the-art supervised pattern recognition techniques. We have shown promising results with an user-friendly classifier, which requires minimum user interaction and less knowledge about the dataset.

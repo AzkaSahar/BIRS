@@ -1,0 +1,5 @@
+Request Type Prediction for Web Robot and Internet of Things Traffic
+
+robots,web servers,training,neural networks,cascading style sheets,html,performance evaluation
+
+The volume of Web robot traffic seen by Web servers and clouds continue to increase with the popularity of Internet of Things (IoT) devices. Such traffic exhibits decidedly different statistical and resource request patterns compared to humans. However, the optimizations ensuring high levels of Web systems and cloud performance requires traffic to exhibit the statistical and behavioral patterns of humans, not robots. This necessitates the design of novel Web system optimizations to handle Web robot traffic effectively. Caches are a basic component of high performing Web systems, but their effectiveness relies on accurate resource request prediction. In this paper, we explore a suite of classifiers for the resource request type prediction problem for robot traffic. Our analysis reveals: (i) a striking difference in the request patterns of robots across multiple servers from the same domain, and (ii) that Elman neural networks hold promise to predict request types despite these differences.

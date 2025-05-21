@@ -1,0 +1,5 @@
+State Abstraction in Reinforcement Learning by Eliminating Useless Dimensions
+
+reinforcement learning, state abstraction, intelligent agent, complexity reduction
+
+Q-learning and other linear dynamic learning algorithms are subject to Bellmans curse of dimensionality for any realistic learning problem. This paper introduces a framework for satisficing state abstraction one that reduces state dimensionality, improving convergence and reducing computational and memory resources by eliminating useless state dimensions. Statistical parameters that are dependent on the state and Q-values identify the relevance of a given state space to a task space and allow state elements that contribute least to task learning to be discarded. Empirical results of applying state abstraction to a canonical single-agent path planning task and to a more difficult multi-agent foraging problem demonstrate utility of the proposed methods in improving learning convergence and performance in resource-constrained learning problems.

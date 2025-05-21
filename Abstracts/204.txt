@@ -1,0 +1,5 @@
+Statistical Scenarios for Demand Forecast of a High Voltage Feeder: A Comparative Study
+
+high voltage feeder,demand forecast,statistical methods,comparative study
+
+The electricity demand forecasting has gained remarkable concern in energy market operation and planning with the emergence of deregulation in the power industry. Power system operators benefit from accurate demand forecasts by supporting investment decisions more objectively. As a crucial requirement, this paper focuses on hourly demand forecasts of a high voltage feeder. Moving average (MA), weighted moving average (WMA), autoregressive moving average (ARMA) and autoregressive integrated moving average (ARIMA) models have been used for creating statistical demand scenarios at 1-h, 2-h, 3-h and 4-h intervals. Many constructive comparisons have been conducted among MA, WMA, ARMA and ARIMA models comprehensively. Besides, the best statistical model employed in each hourly demand scenario provides the robust improvement percentage with respect to the persistence model.

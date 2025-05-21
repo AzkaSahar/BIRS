@@ -1,0 +1,5 @@
+Machine Learning Methods Used in Evaluations of Secure Biometric System Components
+
+biometric,attack,machine-learning,template-security,identification-recognition,data-acquisition,standard,attack,security
+
+This paper provides a comprehensive overview of theories, methodologies, techniques, standards and frameworks of biometric systems. The studies conducted between 2007-2017 are examined in order to ensure the security of the equipment used in a biometric system, to secure the characteristic feature extraction, to provide secure data storage in the biometric database, to maintain transmission channels used in biometric applications from vulnerabilities, and to ensure the correctness of the results obtained from intelligent decision mechanism. Machine learning techniques used to detect and protect existing attacks are analyzed, obtained results are shared and recommendations are made in the last part of the study.

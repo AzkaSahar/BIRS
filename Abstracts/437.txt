@@ -1,0 +1,5 @@
+A Spatio - Temporal Hedonic House Regression Model
+
+k-means clustering,least absolute shrinkage and selection operator (lasso),random forest,time series,hedonic pricing model,housing prices prediction
+
+This work focuses on an algorithmic investigation of the housing market spanning 11 years using the hedonic pricing theory. An improved pricing model will benefit home buyers and sellers, real estate agents and appraisers, government and mortgage lenders. Hedonic pricing theory is an econometric concept that explains the market value of a differentiated commodity using implicit pricing. Exploiting the spatial dependent nature of the housing market, we created new submarkets. A model was built with the new submarket, while another one was built using the existing submarket. Random forest and LASSO were trained with the two models. We argue that our approach has a considerable impact on the dimension of a spatio-temporal hedonic house pricing model without a significant reduction in its performance.

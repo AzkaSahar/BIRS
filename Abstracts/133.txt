@@ -1,0 +1,5 @@
+Measuring and Modelling Delays in Robot Manipulators for Temporally Precise Control Using Machine Learning
+
+robot control,automation,machine learning algorithms
+
+Latencies and delays play an important role in temporally precise robot control. During dynamic tasks in particular, a robot has to account for inherent delays to reach manipulated objects in time. The different types of occurring delays are typically convoluted and thereby hard to measure and separate. In this paper, we present a data-driven methodology for separating and modelling inherent delays during robot control. We show how both actuation and response delays can be modelled using modern machine learning methods. The resulting models can be used to predict the delays as well as the uncertainty of the prediction. Experiments on two widely used robot platforms show significant actuation and response delays in standard control loops. Predictive models can, therefore, be used to reason about expected delays and improve temporal accuracy during control. The approach can easily be used on different robot platforms.

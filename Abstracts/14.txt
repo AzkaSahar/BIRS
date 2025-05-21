@@ -1,0 +1,5 @@
+Feature Selections for Effectively Localizing Faulty Events in GUI Applications
+
+gui, feature selection, faults localization
+
+Due to the complex causality of failure and the special characteristics of test cases, the faults in GUI (Graphic User Interface) applications are difficult to localize. This paper adapts feature selection algorithms to localize GUI-related faults in a given program. Features are defined as the subsequences of events executed. By employing statistical feature ranking techniques, the events can be ranked by the suspiciousness of events being responsible to exhibit faulty behavior. The features defined in a given source code implementing (event handle) the underlying event are then ranked in suspiciousness order. The evaluation of the proposed technique based on some open source Java projects verified the effectiveness of this feature selection based fault localization technique for GUI applications.

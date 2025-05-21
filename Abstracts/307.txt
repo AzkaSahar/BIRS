@@ -1,0 +1,5 @@
+Faults Investigation of Transformer Windings Using the Frequency Response Analysis FRA
+
+transformer,frequency response analysis fra,resonance frequency,machine learning
+
+This present paper focuses on the modeling of a real coil in order to diagnosis. This winding includes 05 discs of height (5 × 178) mm and containing 30 turns each on three layers. After validation of the adopted model, we performed parametric changes that reflect various defects in the winding to perform detection and investigation of fault location in the winding using the FRA method. Obtained results can be a tool in the field of machine learning.

@@ -1,0 +1,5 @@
+Building a Platform for Software-Defined Networking Cybersecurity Applications
+
+software-defined networking (sdn),sdncontroller,platform,cybersecurity applications,network intrusion detection system (nids),machine learning algorithm (mla),hidden markov model (hmm),waikato environment for knowledge analysis (weka),mininet
+
+The emerging technology of Software-Defined Networking (SDN) affords a platform and architecture which is dynamic, manageable, cost-effective, and adaptable, making it ideal for many applications that are high-bandwidth and dynamic in nature. As this technology grows and matures, there is a need for cybersecurity applications to be designed, developed and evaluated. In this paper, we propose a development environment configuration to build security applications targeting the SDN-controller in an effort to explore the technology and the resources available to teach and research the platform from a security application development perspective.

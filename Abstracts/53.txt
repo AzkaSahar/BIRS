@@ -1,0 +1,5 @@
+Improving Robustness of Gaussian Process-based Inferential Control System using Kernel Principle Component Analysis
+
+control systems, process control, kernel, gaussian processes, principal component analysis, robustness, vectors
+
+The plausibility and robustness of an inferential control system entirely depend on the prediction accuracy of the estimator used as the feedback element. This paper is based on a previously proposed Gaussian process inferential controller that employs Gaussian process soft sensor as an estimator. The paper enhances the robustness and the reliability of the control system, particularly, during sensor input failures. The contribution of the paper is i) alleviating the affect of the failure on the prediction accuracy of feedback element (soft sensor) and thus improving the robustness of the overall control system. ii) Hybridising Kernel Principal Component Analysis with Gaussian process Inferential Control System to achieve this robustness during all process operating conditions. The paper empirically shows the effectiveness and the plausibility of the processed hybrid system on a simulated chemical reactor process.

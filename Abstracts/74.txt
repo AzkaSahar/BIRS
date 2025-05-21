@@ -1,0 +1,5 @@
+A Genetic Algorithm Approach to Partitioning Clustering : A case study on M.Sc. Applicants
+
+partitioning clustering, clustering, divisive analysis, genetic algorithms, gower's measure of similarity, master degree in information technology
+
+Acquiring a Master Degree is becoming a common practice to ensure successful life and good career path, especially in developing countries. Master Degree in Information Technology is one of the most popular programmes with prolific number of applications and students. This work has two main objectives. First is to discover the number of clusters of applicants and the characteristics of each cluster. Another is to develop a Genetic Algorithm based Partitioning Clustering Program. This is achieved by incorporating distance matrix and its application in Divisive Analysis and Gower's measure of similarity. The Genetic Algorithm based Partitioning Clustering program developed was proven superior to some common clustering techniques.

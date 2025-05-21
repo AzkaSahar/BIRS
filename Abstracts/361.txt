@@ -1,0 +1,5 @@
+Learning Antecedent Structures for Event Coreference Resolution
+
+event coreference,information extraction,discourse,coreference
+
+The vast majority of existing work on learning-based event coreference resolution has employed the so-called mentionpair model, which is a binary classifier that determines whether two event mentions are coreferent. Though conceptually simple, this model is known to suffer from several major weaknesses. Rather than making pairwise local decisions, we view event coreference as a structured prediction task, where we propose a probabilistic model that selects an antecedent for each event mention in a given document in a collective manner. Our model achieves the best results reported to date on the new KBP 2016 English and Chinese event coreference resolution datasets.

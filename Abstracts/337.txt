@@ -1,0 +1,5 @@
+Toward Parametric Security Analysis of Machine Learning Based Cyber Forensic Biometric Systems
+
+cyber forensic,electroencephalogram,machine learning,security strength
+
+Machine learning algorithms are widely used in cyber forensic biometric systems to analyze a subject's truthfulness in an interrogation. An analytical method (rather than experimental) to evaluate the security strength of these systems under potential cyber attacks is essential. In this paper, we formalize a theoretical method for analyzing the immunity of a machine learning based cyber forensic system against evidence tampering attack. We apply our theory on brain signal based forensic systems that use neural networks to classify responses from a subject. Attack simulation is run to validate our theoretical analysis results.

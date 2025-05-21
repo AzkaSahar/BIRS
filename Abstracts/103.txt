@@ -1,0 +1,5 @@
+Causal Discovery from Spatio-Temporal Data with Applications to Climate Science
+
+spatio-temporal data, causal discovery, graphical model, structure learning, climate science, climate
+
+Causal discovery algorithms have been used to identify potential cause-effect relationships from observational data for decades. Recently more applications are emerging, for example in climate science, that extend over large spatial domains and require temporal models. This paper first reviews how the causal discovery problem can be set up for such spatiotemporal problems using constraint-based structure learning, then discusses pitfalls we encountered and some solutions we developed. In particular, we consider how to handle temporal and spatial boundaries (which often result in causal sufficiency violations) and discuss the effects of temporal resolution and grid irregularities on the resulting model.

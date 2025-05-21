@@ -1,0 +1,5 @@
+A Review of Machine Learning Solutions to Denial-of-Services Attacks in Wireless Sensor Networks
+
+wireless sensor networks (wsns),denial-of-service (dos),network layer,machine learning,tcp/ip model
+
+Wireless sensor networks (WSNs) are used in various fields where remote data collection is necessary, such as environment and habitat monitoring, military applications, smart homes, traffic control, and health monitoring etc. Since WSNs play a crucial role in various domains and the sensors are constrained by resources, they are vulnerable to different types of attacks. One of the main attack types that threaten WSNs is Denial-of-Service (DoS) attacks. DoS attacks can be carried out at various layers of the network architecture. In this paper, we review the DoS attacks at each layer of TCP/IP protocol stack. Among them we focus on the network layer attacks because they are more diverse than other layer attacks. We review a number of studies proposing machine learning solutions pertaining to network layer DoS attacks in WSNs. We also provide some comparative conclusions to aid researchers studying in this field.

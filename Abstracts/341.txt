@@ -1,0 +1,5 @@
+Multiview Centroid Based Fuzzy Classification of Large Data
+
+classification,soft clustering,multiview data
+
+Modern data is increasingly complex. High dimensionality, heterogeneity and independent multiple representations are the basic properties of today's data. With increasing sources of data collection, a single object can have multiple representations, which we call views. In this paper we propose a multiview classification technique, which uses fuzzy mapping to obtain maximum similarity between an object and nearest multiview centroids. Our fuzzy mapping based approach obtains a unit L1 hyperplane as a common space for each view. To establish the efficacy of our proposed method we present experimental comparisons with number of baselines on two synthetic and two real-world data sets.

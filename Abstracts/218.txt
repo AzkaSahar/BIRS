@@ -1,0 +1,5 @@
+A Web-Based Auction Platform for Electricity Retail Markets
+
+electricity retail markets,combinatorial reverse auctions,e-commerce,optimization,web application
+
+A web-based combinatorial reverse auction platform for electricity retail markets is designed and implemented. At consumer side, the system provides cheaper electricity consumption by means of established competitive market environment. The competitive set up allows suppliers a continuous channel of bidding and chance to increase number of their customers. The winner determination problem of combinatorial auctions - known to be NP-Hard is solved by using available commercial off the shelf optimizer. Experimental results showed that the performance critical component of the platform (i.e. the optimizer) performs quite satisfactory in terms of solution time & memory loads. We observed that there is no correlation between different number of bidders, bids per bidder and solution time & memory load values.

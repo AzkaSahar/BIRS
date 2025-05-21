@@ -1,0 +1,5 @@
+Leveraging Machine Learning Algorithms to Perform Online and Offline Highway Traffic Flow Prediction
+
+traffic prediction, online learning, flow forecast, stochastic gradient descent
+
+Advanced traffic management systems (ATMS) are heavily depending on traffic flow or equivalent travel time estimation. The main goal of this paper is to accomplish two different algorithms to perform offline and online traffic flow forecasting. A multi-layer perceptron (MLP), which is trained on yearly data, is utilized for mid-term offline predictions. Principal components analysis (PCA) is employed to speed up the training process. This model also serves as a baseline. The stochastic gradient descent deploys online forecasting. Both algorithms predict the flow of a location down a Trunk highway (the target point) using the history of flow of several locations ahead of the target point in Twin Cities Metro area in Minneapolis.

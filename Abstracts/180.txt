@@ -1,0 +1,5 @@
+Detecting Erosion Events in Earth Dam and Levee Passive Seismic Data with Clustering
+
+earth levee,passive seismic,time series,pattern recognition,unsupervised clustering,machine learning,signal processing,geophysical
+
+Geophysical sensor technologies can be used to understand the structural integrity of Earth Dams and Levees (EDLs). We are part of an interdisciplinary team researching techniques for the advancement of EDL health monitoring and the automatic detection of internal erosion events. We present results from our performance study that uses signal processing, feature extraction, and unsupervised learning on passive seismic data from an experimental laboratory earth embankment. We used popular unsupervised clustering algorithms to gain insights to this real-world problem, and evaluated our results using internal and external validation techniques. In four of the clustering algorithms applied, results consistently show a clear separation of events from non-events. We provide proof of concept and an initial pattern recognition process that could be used as a tool for nonintrusive and long-term EDL monitoring.

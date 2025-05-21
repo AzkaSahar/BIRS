@@ -1,0 +1,5 @@
+Computation of a Rejection Threshold used for the Bayes Classifier
+
+rejection, statistical learning, bayes classifier
+
+In this paper an algorithm for the efficient computation of a rejection threshold for Bayes classification is discussed. A theoretical and a practical evaluation of the performance regarding the accuracy of the numerical computation for uni- and multimodal high-dimensional probability distributions is given. Additionally some observations regarding the dimensionality and the number of samples are shared.

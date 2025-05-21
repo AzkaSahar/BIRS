@@ -1,0 +1,5 @@
+Predicting Churn of Expert Respondents in Social Networks Using Data Mining Techniques: A Case Study of Stack Overflow
+
+churn prediction,social networks,data mining
+
+In Q&A social networks, the few respondents that answer most of the questions are an asset to that network. Being able to predict the churn of these expert respondents will enable the owners of such network put things in place in order to keep them. In this paper, we predicted the churn of expert respondents in Stack Overflow. We identified experts based on the InDegree of the respondents and the value of the incentives earned by these experts from the questions they have answered in the past. Using four data mining techniques: logistic regression, neural networks, support vector machines and random forests, we predicted user churn and evaluated our results with four evaluation metrics: percentage correctly classified, area under receiver operating characteristic curve, precision and recall. Of the four data mining algorithms, random forests performed best with PCC of 76%, ROC area of 0.82, precision of 0.76 and recall of 0.77.

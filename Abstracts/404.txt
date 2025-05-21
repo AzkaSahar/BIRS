@@ -1,0 +1,5 @@
+Automated Patent Classification Using Word Embedding
+
+automated classification,patent,word embedding,deep learning
+
+Patent classification is the task of assign a special code to a patent, where the assigned code is used to group patents with similar subject into a same category. This paper presents a patent categorization method based on word embedding and long short term memory network to classify patents down to the subgroup IPC level. The experimental results indicate that our classification method achieve 63\% accuracy at the subgroup level.

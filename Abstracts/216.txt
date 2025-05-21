@@ -1,0 +1,5 @@
+Identifying Daily Electric Consumption Patterns from Smart Meter Data by Means of Clustering Algorithms
+
+fault diagnosis,valves,mathematical model,sensors,radio frequency,discrete-event systems,adaptation models
+
+This paper presents clustering approaches applied on daily energy consumption curves of a building. Our aim is to identify a reduced set of consumption patterns for a tertiary building during one year. These patterns depend on the temperature throughout the year as well as the type of the day (working day, work-free day and school holidays). Two clustering approaches are used independently, namely the functional K- means algorithm, that takes into account the functional aspect of data and the Expectation-Maximization algorithm based on Gaussian Mixture Model (EM-GMM). The clustering results of the two algorithms are analyzed and compared. This study represents the first step towards the development of prediction models for energy consumption.

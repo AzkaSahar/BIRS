@@ -1,0 +1,5 @@
+Q-Learning: From Computer Network Security To Software Security
+
+software architecture, machine learning, q-learning, security, repair
+
+Reinforcement learning techniques become more popular in computer network security. The same reinforcement learning techniques developed for network security can be applied to software security as well. This research summarizes a work in progress attempt to incorporate Q-learning algorithm in software security. The Q-learning method is embedded as part of the software itself to provide a security mechanism that has ability to learn by itself to develop a temporary repair mechanism. The results of the experiment express that given the right parameters and the right setting the Q-learning approach rapidly learns to block all alicious actions. Data analysis on the Q-values produced by the software can provide security diagnostic as well. A larger scale experiment is expected to be seen in the future work.

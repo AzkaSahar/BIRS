@@ -1,0 +1,5 @@
+OUPS: A Combined Approach Using SMOTE and Propensity Score Matchingtching
+
+accuracy,sensitivity,data models,machine learning algorithms,training,equations
+
+Building accurate classifiers is difficult when using data that is skewed or imbalanced which is typical of real world data sets. Two popular approaches that have been applied for improving classification accuracy and statistical comparisons of imbalanced data sets are: synthetic minority over-sampling technique (SMOTE) and propensity score matching (PSM). A novel sampling approach is introduced referred to as over-sampling using propensity scores (OUPS) that blends the two and is simple and easy to perform resulting in improvement in accuracy and sensitivity over both SMOTE and PSM. The performance of our proposed approach is assessed using a simulation experiment and several performance metrics are shown where this approach fares and falls in comparison to the others.

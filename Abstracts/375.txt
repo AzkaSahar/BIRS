@@ -1,0 +1,5 @@
+Understading Image Restoration Convolutional Neural Networks with Network Inversion
+
+deep learning,neural networks,underwater,dehazing,visualization,image restoration
+
+In recent years, Convolutional Neural Networks (CNNs) have achieved state-of-the-art performance in many image restoration applications. The knowledge of how these models work, however, is still limited. While there have been many attempts at better understanding the inner working of CNNs, they have mostly been applied to classification networks. Because of this, most existing CNN visualization techniques may be inadequate to the study of image restoration architectures. In the paper, we present network inversion, a new method developed specifically to help in the understanding of image restoration Convolutional Neural Networks. We apply our method to underwater image restoration and dehazing CNNs, showing how it can help in the understanding and improvement of these models.

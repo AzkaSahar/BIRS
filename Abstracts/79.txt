@@ -1,0 +1,5 @@
+A Clustering-based Grouping Model for Enhanceing Collaborative Learning
+
+collaborative learning, balanced k-means, group diversity
+
+Group work is widely used in tertiary institutions due to the considerable advantages of collaborative learning. Previous studies indicated that the group diversity had positive influence on the group work achievement. Therefore, how to achieve diversity within a group effectively and automatically is an interesting question. In this paper we propose a novel clustering-based grouping model. The proposed technique first employs balanced K-means algorithm to divide the students into several size-balanced clusters, such that the students within the same cluster are more similar (in some sense) to each other than to those in other clusters, then adopts one-sample-each-cluster strategy to construct the groups1. We evaluated the proposed technique based on two small-scale case studies. The result observed may indicate that the clustering-based grouping model is feasible and effective.

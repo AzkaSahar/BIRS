@@ -1,0 +1,5 @@
+Geometrical Analysis of Machine Learning Security in Biometric Authentication Systems
+
+machine learning,security,geometrical analysis
+
+Feature extraction and Machine Learning (ML) techniques are required to reduce high variability of biometric data in Biometric Authentication Systems (BAS) toward improving system utilization (acceptance of legitimate subjects). However, reduction in data variability, also decreases the adversary's effort in manufacturing legitimate biometric data to break the system (security strength). Typically for BAS design, security strength is evaluated through variability analysis on data, regardless of feature extraction and ML, which are essential for accurate evaluation. In this research, we provide a geometrical method to measure the security strength in BAS, which analyzes the effects of feature extraction and ML on the biometric data. Using the proposed method, we evaluate the security strength of five state-of-the-art electroencephalogram-based authentication systems, on data from 106 subjects, and the maximum achievable security strength is 83 bits.

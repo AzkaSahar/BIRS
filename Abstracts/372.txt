@@ -1,0 +1,5 @@
+Time-Sensitive Adaptation of Regularization Strength of Recurrent Neural Networks for Accurate Learning
+
+recurrent neural network,long-short term memory,regularization,time-varying impact,penalization
+
+Regularization is an important issue for neural networks because of strong expression power causing overfitting to data. A regularization method is to penalize cost functions by activation-based penalty. In its applications to recurrent neural networks, the method usually assigns penalty uniformly distributed over time steps. However, required strength for recurrent networks differs by time steps. In this paper we propose a new activation-based penalty function varying its strength over time steps in recurrent neural networks. To verify its impact, we conducted practical experiments to predict the power consumption of home appliances. In the results, the proposed method reduced training errors and maintained validation and test errors, which implies the improvement of forecasting ability. In sensitivity analysis, the method restricted sudden decrease of impact of early time steps to the cost.

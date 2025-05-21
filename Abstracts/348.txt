@@ -1,0 +1,5 @@
+Deep Learning for Microalgae Classification
+
+microalgae classification,imbalanced classes,deep learning,convolutional neural networks,data augmentation
+
+Microalgae are unicellular organisms that presents limited physical characteristics such as size, shape or even the present structures. Classifying them manually may require great effort from experts since thousands of microalgae can be found in a small sample of water. Furthermore, the manual classification is a non-trivial operation. We proposed a deep learning technique to solve the problem. We also created a classified dataset that allow us to adopt this technique. To the best of our knowledge, the present work is the first one to apply this kind of technique on the microalgae classification task. The obtained results show the capabilities of the method to properly classify the data by using as input the low resolution images acquired by a particle analyzer instead of pre-processed features. We also show the improvement provided by the use of data augmentation technique.

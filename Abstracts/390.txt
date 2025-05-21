@@ -1,0 +1,5 @@
+Thyme: Improving Smartphone Prompt Timing Through Activity Awareness
+
+activity recognition,mobile computing,notifications,user modeling
+
+Smartphone prompts and notifications are popular because they provide users with timely and important information. However, they can also be an annoyance if they pop up at inopportune times and interrupt important tasks. In this paper, we introduce Thyme, an intelligent notification front end that uses activity recognition and machine learning to identify the best times to prompt smartphone users. We evaluate the performance of an activity-aware prompting approach based on 47 participants with fixed time and Thyme-based prompts. Our results show that responsiveness improves from 12.8% to 93.2% using this intelligent approach to the timing of smartphone-based prompts.

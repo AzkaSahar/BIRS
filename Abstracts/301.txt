@@ -1,0 +1,5 @@
+A Formal Design for the Lexical and Syntax Analyzer of a Pedagogically Effective Subset of C++
+
+syntactics,c++ languages,programming,computers,education,compounds
+
+In this article, we have argued that a programming language can be improved for both teaching and learning by extracting its simpler subset, and by enforcing some useful constraints. We have further chosen a well known first programming language C++, and have defined its pedagogically effective subset, named Eazy, for teaching a first course in computer programming, generally known as CS1. In order to enforce the usage of the defined subset and to apply the constraints we need to modify the preprocessor of the language. To this end, we present a formal design for the lexical analyzer, and syntax analyzer for Eazy.

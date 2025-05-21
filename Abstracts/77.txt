@@ -1,0 +1,5 @@
+An Intelligent Tutoring System for Argument-Making in Higher Education: A Pilot Study
+
+intelligent tutoring systems; arguments; cohmetrix; text classification
+
+This paper presents a pilot study on an intelligent tutoring system for domain-independent argument making. Students' responses to an open-ended question were collected as the instances for supervised text classification based on the grade given by the instructor using structured outcome of the learning observation taxonomy. The responses were processed using Cohmetrix as well as n-gram models to generate attributes for the classification task. The best result of 81.74% in classification correct rate was obtained when all grade classes were used.

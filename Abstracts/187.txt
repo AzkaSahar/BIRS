@@ -1,0 +1,5 @@
+Synthetic Oversampling for Advanced Radioactive Threat Detection
+
+machine learning,classification,class imbalance,synthetic oversampling,artificial neural networks,autoencoders,gamma-ray spectra
+
+Gamma-ray spectral classification requires the automatic identification of a large background class and a small minority class composed of instances that may pose a risk to humans and the environment. Accurate classification of such instances is required in a variety of domains, spanning event and port security to national monitoring for failures at industrial nuclear facilities. This work proposes a novel form of synthetic oversampling based on artificial neural network architecture and empirically demonstrates that it is superior to the state-of-the-art in synthetic oversampling on the target domain. In particular, we utilize gamma-ray spectral data collected for security purposes at the Vancouver 2010 winter Olympics and on a node of Health Canada's national monitoring networks.

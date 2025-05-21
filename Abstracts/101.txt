@@ -1,0 +1,5 @@
+Performance Comparison of Major Classical Face Recognition Techniques
+
+blind source seperation, face recognition, feature vector, eigenfaces, eigenvalues, eigenvector, small sample size problem
+
+The goal of this paper is to present a critical comparison of existing classical techniques on recognition of human faces. This paper describes the four major classical face recognition techniques i.e., i) Principal Component Analysis (PCA), ii) Linear Discriminant Analysis (LDA), iii) Discrete Cosine Transform (DCT), and iv) Independent Component Analysis (ICA). Strong and weak features of these techniques are discussed. The paper then provides performance comparison and a generalized discussion of the training requirements for these face recognition techniques. Extensive experimental results with three publicly available databases (ORL, Yale, FERET databases) are provided. Performance comparison of recognizing face images taken under varying facial expressions, varying lighting condition and varying poses are discussed.

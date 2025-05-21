@@ -1,0 +1,5 @@
+Geometric PDEs on weighted graphs for semi-supervised classification
+
+equations, databases, standards, labeling, vectors, image processing, classification algorithms
+
+In this paper, we consider the adaptation of two Partial Differential Equations (PDEs) on weighted graphs, p-Laplacian and eikonal equation, for semi-supervised classification tasks. These equations are a discrete analogue of well known geometric PDEs, which are widely used in image processing. While the p-Laplacian on graphs was intensively used in data classification, few works relate to the eikonal equation for data classification. The methods are illustrated through semi-supervised classification tasks on databases, where we compare the two algorithms. The results show that these methods perform well regarding the state-of-the-art and are applicable to the task of semi-supervised classification.

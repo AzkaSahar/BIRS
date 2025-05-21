@@ -1,0 +1,5 @@
+Topic Novelty Detection Using Infinite Variational Inverted Dirichlet Mixture Models
+
+inverted dirichlet,dirichlet process,nonparametric bayesian,variational bayes,mixture model,topic novelty detection
+
+We propose model-based inference for topic novelty detection using a non-parametric Bayesian probability model. The probability model is a Dirichlet process mixture of inverted Dirichlet distributions which can be viewed as an infinite mixture model. The inference is based on variational Bayes deployed using approximate conjugate priors to the inverted Dirichlet. Detailed experimental study demonstrates the merits of our approach and shows that it gives good description of the data.

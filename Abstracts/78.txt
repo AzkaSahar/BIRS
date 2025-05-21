@@ -1,0 +1,5 @@
+Automatically filtering irrelevant words for applications in language acquisition
+
+educational data mining; english as a foreign language; natural language processing for education
+
+Building one's vocabulary in a language is an important component of language acquisition. Children learn their native language by being immersed in the language that is used in their environment. However, in second language acquisition, learners are often exposed to vocabulary that is selected by others specifically to aid language acquisition such as textbooks and word-lists. In this paper, we are presenting a machine learning based method for automatically selecting words that are relevant to the language acquisition task. The word relevancy is determined using data collected from 30 practicing English as a Second Language teachers for this purpose. We demonstrate the viability of this approach by using words from two major corpora, although in practice any corpora such as Google Books corpus can be utilized.

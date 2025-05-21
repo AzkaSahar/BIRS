@@ -1,0 +1,5 @@
+A Comparison of Supervised Machine Learning Techniques for Predicting Short-Term In-Hospital Length of Stay among Diabetic Patients
+
+in-hospital length of stay prediction, supervised machine learning, support vector machines, support vector machines plus, random forests, multi-task learning, diabetes
+
+Diabetes is a life-altering medical condition that affects millions of people and results in many hospitalizations per year. Consequently, predicting the length of stay of in-hospital diabetic patients has become increasingly important for staffing and resource planning. Although statistical methods have been used to predict length of stay in hospitalized patients, many powerful machine learning techniques have not yet been explored. In this paper, we compare and discuss the performance of various supervised machine learning algorithms (i.e., Multiple linear regression, support vector machines, multi-task learning, and random forests) for predicting long versus short-term length of stay of hospitalized diabetic patients.

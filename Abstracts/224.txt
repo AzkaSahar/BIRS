@@ -1,0 +1,5 @@
+An EMD Based Method for Reduction of Ballistocardiogram Artifact from EEG Studies of Evoked Potentials
+
+ballistocardiogram artifact,simultaneous eeg & fmri,event related potentials,empirical mode decomposition
+
+Multi-modality data acquisition is a topic of research that gained interest in the recent years. It provides the opportunity to gather detailed information for analysis. Simultaneous electroencephalography (EEG) and functional magnetic resonance imaging is one good example of it. The information we get after fusing data from EEG and fMRI have both high temporal and spatial resolution. On the other side, this EEG recording suffers from some additional artifacts due to the fMRI environment, in particular, the Ballistocardiogram artifact. In this article, a new method of removing Ballistocardiogram Artifact from evoked potential studies is proposed. The method does not require any reference signal or prior information. The results presented are using the data of three subjects (volunteers). The results show that the proposed method can efficiently reduce Ballistocardiogram artifact and has performed better compared to the conventional methods.

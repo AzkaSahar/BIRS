@@ -1,0 +1,5 @@
+Adaptive restructuring of radial basis functions using integrate-and-fire neurons
+
+machine learning, radial basis functions, neural networks, feed-forward networks
+
+This paper proposes a neurobiology-based extension of integrate-and-fire models of Radial Basis Function Neural Networks (RBFNN) that adapts to novel stimuli by means of dynamic restructuring of the networks structural parameters. The new architecture automatically balances synapses modulation, re-centers hidden Radial Basis Functions (RBFs), and stochastically shifts parameter-space decision planes to maintain homeostasis. Example results are provided throughout the paper to illustrate the effects of changes to the RBFNN model.

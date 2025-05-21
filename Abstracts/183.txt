@@ -1,0 +1,5 @@
+Adaptive Modular Approach for Online Fault Diagnosis of Discrete Event Systems
+
+adaptive approaches,fault diagnosis,discrete event systems,diagnosabiliy
+
+In this paper, an adaptive modular approach is proposed to achieve the fault diagnosis of discrete event systems. The desired (normal) behavior is represented by a set of specifications while faults of each predefined fault type are considered to be the execution of specific fault behavior violating a specification. The inference of the fault type of each fault is achieved by a diagnosis module called diagnoser. This approach considers that only normal behavior is known in advance. Then, it adapts the diagnoser in order to integrate new specific fault behaviors into its inference engine. This adaptation allows increasing the diagnosis capacity, called diagnosability, over time.

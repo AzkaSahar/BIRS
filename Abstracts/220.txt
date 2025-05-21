@@ -1,0 +1,5 @@
+Concept of 4th Dimension for Databases
+
+four dimension,databases,time series
+
+In these days, the data are being more and more important for not only social or commercial aspects but also military and security aspects. Therefore, storing the data accurately and accessing it exactly are quite important issues. Currently, most databases use 3 dimension (3D) data structure to store the physical parameters of real objects, which are width, length and depth/height. If the data have the four dimension for any object, it will definitely be more useful than 3D structure. In this paper, we investigated to how the time can be used as the 4th dimension for any object and the concepts of dynamic calculation of the time in order to store it in databases. Some type of objects have been selected as base shapes such as rectangular, cylinder, sphere, ellipse, pyramid and cone, for 4th dimension objects and a sample application is given in the study in order to explain how the time dimension can be used for databases.

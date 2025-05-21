@@ -1,0 +1,5 @@
+Automatic Algorithm Recognition of Source-Code using Machine Learning
+
+algorithm recognition,machine learning,feature recognition
+
+As codebases for software projects get larger, reaching ranges of millions of lines of code, the need for computer-aided program comprehension grows. We define one of the tasks of program comprehension to be algorithm recognition: given a piece of source-code from a file, identify the algorithm this code is implementing, such as brute-force or dynamic programming. Most research in this area is making use of pattern matching, which involves much human effort and is of questionable accuracy when the structure and semantics of programs change. Thus, this paper proposes to let go of defined patterns, and make use of simpler features, such as counts of variables and counts of different constructs to recognize algorithms. We then feed these features to a classification algorithm to predict the class or type of algorithm used in this source code. We show through experimental results that our proposed method achieves a good improvement over baseline.

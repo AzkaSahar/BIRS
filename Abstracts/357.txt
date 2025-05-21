@@ -1,0 +1,5 @@
+On the Impacts of Noise from Group-Based Label Collection for Visual Classification
+
+visual classification,noisy training data,group based labeling
+
+State of the art visual classification continues to improve, particularly with the use of deep learning and millions of labeled images. However, the effort required to label training sets of this size has led to semi-supervised approaches that collect partially noisy labeled data with less effort. Label noise has been shown to degrade supervised learning, but these analyses focus on noise from erroneous label assignment of data instances. Group-based labeling reduces workload by assigning a single label to a group of images simultaneously, which introduces label noise with structure dependent on all training instances. This work investigates the impact of group-based label noise on classifier learning, and discusses how and why this differs from instance-based label noise. We also discuss label noise modeling designed to provide more robust classification given noisy training instances, and evaluate the generalization of these techniques to group-based noise.

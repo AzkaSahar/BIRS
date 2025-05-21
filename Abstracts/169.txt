@@ -1,0 +1,5 @@
+Donor Selection for Hematopoietic Stem Cell Transplant Using Cost-Sensitive SVM
+
+donor selection,predictive data analytics,stem cell transplant,svm classification,unbalanced data
+
+Donor selection for Hematopoietic Stem Cell Transplant often requires physicians to manually select 3 to 5 donors from a list of 100s of genetically compatible donors as identified by HLA-based matching algorithms. The decision process is complicated by a lack of strict guidelines governing a "secondary" selection process, which is based upon non-HLA donor attributes. Our research is aimed at modeling this "secondary" decision process which can help physicians choose the right donors, based on donor attributes and historical choice behavior. Proposed black box models will help in improving selection consistency.

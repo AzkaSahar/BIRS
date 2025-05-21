@@ -1,0 +1,5 @@
+Multimodal Music and Lyrics Fusion Classifier for Artist Identification
+
+classification, multimodal, sparse methods, audio
+
+Humans interact with each other using different communication modalities including speech, gestures and written documents. In the absence of one modality or presence of a noisy modality, other modalities can benefit precision of systems. HCI systems can also benefit from these multimodal communication models for different machine learning tasks. The provision of multiple modalities is motivated by usability, presence of noise in one modality and non-universality of a single modality. Combining multimodal information introduces new challenges to machine learning such as designing fusion classifiers. In this paper we explore the multimodal fusion of audio and lyrics for music artist identification. We compare our results with a single modality artist classifier and introduce new directions for designing a fusion classifier.

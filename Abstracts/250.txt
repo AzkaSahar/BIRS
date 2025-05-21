@@ -1,0 +1,5 @@
+Interaction Network Representations for Human Behavior Prediction
+
+human behavior prediction,network representation learning,deep learning,health social networks
+
+Human behavior prediction is critical to studying how healthy behavior can spread through a social network. In this work we present a novel user representation based human behavior prediction model, the User Representation-based Socialized Gaussian Process model (UrSGP). First, we present the Deep Interaction Representation Learning (Deep Interaction) model for learning latent representations of interaction social networks in which each user is characterized by a set of attributes. In particular, we consider social interaction factors and user attribute factors to build a bimodal, fixed representation of each user in the network. Our model aims to capture the evolution of social interactions and user attributes and learn the hidden correlations between them. We then use our latent features for human behavior prediction via the UrSGP model. An empirical experiment conducted on a real health social network demonstrates that our model outperforms baseline approaches for human behavior prediction.

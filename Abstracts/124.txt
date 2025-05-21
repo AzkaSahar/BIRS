@@ -1,0 +1,5 @@
+Online One-Class SVMs with Active-Set Optimization for Data Streams
+
+support vector machines,standards,quadratic programming,kernel,training,real-time systems
+
+A great advantage of support vector machines (SVMs) is its capability to learn decision borders, represented by a set of particular data points called margin support vectors. The real-time or nearly real-time online learning and detection from data streams poses stringent time and space constraints for the learner. We consider solving online one-class SVMs with an active-set method for quadratic programming (QP). At each iteration, the problem size is the size of the estimated support vectors so far. Active-set programming has the nice property that the solution of a previous problem can serve as a warm start of the next and computation time can thereby be greatly reduced. In general, finding a good warm-start point is difficult. We propose a method to find a good warm start by exploiting the structure of the SVM optimization problem.

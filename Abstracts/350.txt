@@ -1,0 +1,5 @@
+Clustering Distributed Short Time Series with Dense Patterns
+
+time series clustering,short time series,distributed data clustering
+
+The clustering of genes with similar temporal profiles is an important task in gene expression data analysis. Current approaches to the clustering of sparse gene expression data with temporal information suffer from their at least quadratic complexity in the number of clusters, the number of genes, or both, and are not distributed. In this paper, we present the first distributed and density-based approach to short time series clustering, called DTSCluster, which is suitable for gene expression data. DTSCluster identifies dense patterns in the distributed datasets and uses them to generate the time series clusters. The comparative experimental results revealed that DTSCluster is scalable in the dataset size with linear complexity in time and space, and outperforms other representative approaches in terms of cluster validation with the silhouette index as well. The distributed scenario also opens up the opportunity for collaborative data mining between different gene expression data holders.

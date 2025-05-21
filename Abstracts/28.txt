@@ -1,0 +1,5 @@
+Multi-Variable Neural Network Forecasting Using Two Stage Feature Selection
+
+forecasting, feature selection, neural networks
+
+This paper proposes a novel neural network based forecaster that predicts more than one variable at a time. A two stage neural network training algorithm is used that employs Newtons algorithm to estimate a vector of hidden unit optimal learning factors in each iteration. In order to reduce the size of the neural network and train it more effectively, the forecaster uses both subsetting and transformation types of feature selection, reducing the number of neural net inputs by 70 %.

@@ -1,0 +1,5 @@
+Automatic Scoring of a Nonword Repetition Test 
+
+automatic scoring,autism spectrum disorder,nonword stimuli repetition
+
+In this study, we explore the feasibility of speech-based techniques to automatically evaluate a nonword repetition (NWR) test. NWR tests, a useful marker for detecting language impairment, require repetition of pronounceable nonwords, such as "D OY F", presented aurally by an examiner or via a recording. Our proposed method leverages ASR techniques to first transcribe verbal responses. Second, it applies machine learning techniques to ASR output for predicting gold standard scores provided by speech and language pathologists. Our experimental results for a sample of 101 children (42 with autism spectrum disorders, or ASD; 18 with specific language impairment, or SLI; and 41 typically developed, or TD) show that the proposed approach is successful in predicting scores on this test, with averaged product-moment correlations of 0.74 and mean absolute error of 0.06 (on a observed score range from 0.34 to 0.97) between observed and predicted ratings.

@@ -1,0 +1,5 @@
+L1-Norm Principal-Component Analysis via Bit Flipping
+
+anomaly detection,data contamination,genomic data,l1 norm,l2 norm,principal-component analysis,outliers,singular-value decomposition,subspace learning
+
+The K L1-norm Principal Components (L1-PCs) of a data matrix X ? ? D × N can be found optimally with cost O(2 NK ), in the general case, and O(N rank(X)K - K + 1 ), when rankX is a constant with respect to N [1],[2]. Certainly, in real-world applications where N is large, even the latter polynomial cost is prohibitive. In this work, we present L1-BF: a novel, near-optimal algorithm that calculates the K L1-PCs of X with cost O (NDmin{N, D} + N 2 (K 4 + DK 2 ) + DNK 3 ), comparable to that of standard (L2-norm) Principal-Component Analysis. Our numerical studies illustrate that the proposed algorithm attains optimality with very high frequency while, at the same time, it outperforms on the L1-PCA metric any counterpart of comparable computational cost. The outlier-resistance of the L1-PCs calculated by L1-BF is documented with experiments on dimensionality reduction and genomic data classification for disease diagnosis.

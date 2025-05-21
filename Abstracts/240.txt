@@ -1,0 +1,5 @@
+Dynamic Factor Mixture of Experts for Functional Time Series Modeling
+
+functional time series,dynamic factor analysis,mixture of experts,visualization,state-space model,variational em
+
+A new approach is introduced in this paper for dynamic modeling and dimensionality reduction from time series of curves. For this purpose, a dynamic mixture of experts model whose regression coefficients evolve from curve to curve according to a Gaussian random walk over low dimensional factors, is proposed. The resulting model is neither else than a particular state-space model involving discrete and continuous latent variables, whose parameters are learned across a sequence of curves through a dedicated variational Expectation-Maximization algorithm. The experimental study conducted on simulated sequences of curves has shown the strong potential of the proposed approach.

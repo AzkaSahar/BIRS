@@ -1,0 +1,5 @@
+Assessment of Different Image Clutter Metrics Using Multivariate Analyses and Neurofuzzy System
+
+target detection, computer vision, statistical image clutter metrics, multivariate analyses, neurofuzzy system
+
+Image processing is the most frequently used technique in computer vision like target detection of monitored target images to recognize background clutter and observed target images. To evaluate the performance of various image processing algorithms, image clutter metrics are very important and useful factors for the better visual conception such as increasing the probability of detection, decreasing the false alarm rate, or a relatively shorter searching time. In this paper, different image clutter metrics such as probability of detection, false alarm rate, and search time, are assessed by the statistical analysis techniques and neurofuzzy systems through applying other statistical image clutter metrics in order to improve the machine visual conception with resolving the machine cognitive constraints for the computer vision.

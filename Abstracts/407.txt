@@ -1,0 +1,5 @@
+Incremental Dynamic Search Solver
+
+timetabling,stochastic local search,combinatorial optimization,constraint programming
+
+This paper introduces Incremental Dynamic Search (IDS) Solver, a local search based solver, we propose, for solving general finite constraint satisfaction and combinatorial optimization problems. The goal of the IDS Solver is to offer a pluggable approach to Constraint-based models as well as a platform for composing a framework for parallel local search extension, whose functionality is determined by the modelled problem. The aim of the solver is to improve the efficiency, the robustness, and the usability of local-based search algorithms. The proposed solver along with its parallel extension are presented in this paper.

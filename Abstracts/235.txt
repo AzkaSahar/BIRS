@@ -1,0 +1,5 @@
+Class Decomposition Using K-Means and Hierarchical Clustering
+
+class decomposition,classification,clustering,machine learning
+
+This paper presents a clustering-based class decomposition approach to improve the performance of classifiers. Class decomposition works by dividing each class into clusters, and by relabeling instances contained by each cluster with a new class. Several case studies used class decomposition combined with linear classifiers. While there is an essential improvement in classification accuracy because of class decomposition, the most effective clustering algorithm is not obvious. The aim of this work is to investigate the effect of two clustering algorithms, K-means and hierarchical, on class decomposition. In this work, we study class decomposition when combined with the Naive Bayes classifier using four real-world datasets. Experimental results show an improvement in classification accuracy for most of the datasets when class decomposition using both K-means and hierarchical clustering is performed. The results also show that class decomposition is not suitable for all datasets.

@@ -1,0 +1,5 @@
+Forecasting Domestic Hot Water Demand in Residential House Using Artificial Neural Networks
+
+artificial neural network,domestic hot water,forecasting energy demand
+
+The prediction of domestic hot water energy consumption is a key purpose in order to decrease energy consumed on residential houses. The advantage to use the artificial neural networks method is its capacity to adapt to a particular consumer without consumption profile. A lot of paper develop artificial neural network models to predict energy consumption, but they use high quantities of parameters.In this study, we develop models with only available information on classical installations. We separate our experimental data in three kinds of instants: near-zero consumption,low consumption and high consumption moments, and we compare the results of three models based on neural networks method on each of these kinds of consumption. We measure the reaction time between the prediction and the real consumption moment. The results show that our models give good accuracy to predict the moments of consumption and the values of high consumption moment.

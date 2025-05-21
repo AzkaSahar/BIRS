@@ -1,0 +1,5 @@
+Differentiation and Integration of Machine Learning Feature Vectors
+
+kernel method,classification,gene coexpression networks,cancer
+
+This paper presents a new approach to the production of feature maps for the improvement of classification in machine learning. The idea is based on a calculus of differentiation and integration of feature vectors, which can be viewed as functions on a metric space or network. Based on this we propose a novel network-based binary machine learning classifier. We illustrate our method using molecular networks alone to distinguish phenotypes, including cancer types and subtypes. We include feature sets derived from disease-specific gene co-expression networks in different cancer data sets using The Cancer Genome Atlas (TCGA) along with other previously published studies. We also illustrate our network-based predictor on another data type, based on infrared spectroscopy of lung cancer tissue.

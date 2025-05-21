@@ -1,0 +1,5 @@
+Multilabel Classification with Weighted Labels Using Learning Classifier Systems
+
+learning classifier systems,multi-label classification,uncertain labels,evolutionary based learning
+
+In this work the Michigan style strength-based learning classifier system, which is a rule-based supervised learning algorithm, is extended to handle multi-label classification tasks. Moreover, it is assumed that the class membership for training data is partially known and the uncertainty is represented by confidence values that reflects the probability of each label being true. Necessary parameters are introduced, and learning classifiers are modified to learn simultaneously the confidence level and multi-label in the training data. Additionally, to quantify the classifier performance, a novel loss measure is introduced that generalizes the well-known Hamming loss criteria to takes into account the classification error and confidence estimation error simultaneously. The algorithm is tested on one real-world data and two synthetic data sets. Results show the ability of the model in learning multi-class and multi-label data with low confidence estimation error.

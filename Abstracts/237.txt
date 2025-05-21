@@ -1,0 +1,5 @@
+Improved Time Series Classification with Representation Diversity and SVM
+
+time series,classification,machine learning,time series representation,time series classification
+
+Time series classification is an important task in data mining that has been traditionally addressed with the use of similarity-based classifiers. The 1-NN DTW is typically considered the most accurate model for temporal data. Nevertheless, some authors have recently proposed ingenious alternatives to the 1-NN DTW by using diversity of time series representation or by using DTW for feature extraction. In this paper, we explore diversity of time series representations and distance functions to obtain distance features, which in turn are used to train an SVM model. We argue that the scientific community has largely neglected a vast body of unconventional distance functions, and we present empirical evidence that distance features are better than the 1-NN DTW with respect to classification accuracy.

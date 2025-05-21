@@ -1,0 +1,5 @@
+Detecting Smooth Cluster Changes in Evolving Graphs
+
+spectral clustering,evolving graph,graph sequence
+
+Clustering vertices in graphs or in sequences of graphs has important applications in network science, bioinformatics, and other areas. Most research to date has focused on static graphs or sequences where the number of vertices does not change. We propose a new algorithm that successfully partitions the vertices of a graph sequence into smooth clusters, even when the number of vertices is allowed to vary over time. Our approach uses spectral clustering and relies on applying the k partition problem to a graph constructed from the input graph sequence. Several experiments demonstrate the performance of our method and its advantages over existing methods.

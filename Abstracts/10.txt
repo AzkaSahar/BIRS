@@ -1,0 +1,5 @@
+Detection of abnormal human behavior using a matrix approximation-based approach
+
+abnormal event detection, low-rank approximation, adaptive learning
+
+Automatic detection of abnormal events is one of central tasks in video surveillance. In this paper we present a matrix approximation-based method to detect abnormal human behavior. In our model, a behavior pattern is represented by a motion matrix obtained through object tracking. We model typical motions associated with normal behaviors with a set of motion subspaces, computed through low-rank matrix approximation. Then, abnormal human behaviors are identified by the motion deviations from the representative subspaces. Our method does not require a complicated classification procedure, and can fast detect abnormal events in complex scenes. In addition, through the adaptive learning module, our model is built on the observed data, and can be expanded by incorporating new behavior patterns during the detection process. The results on simulated surveillance videos show the effectiveness of our method.

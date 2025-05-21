@@ -1,0 +1,5 @@
+A Proposal of a Methodological Framework with Experimental Guidelines to Investigate Clustering Stability on Financial Time Series
+
+clustering,time series,stability,credit default swap,financial markets
+
+We present in this paper an empirical framework motivated by the practitioner point of view on stability. The goal is to both assess clustering validity and yield market insights by providing through the data perturbations we propose a multi-view of the assets' clustering behaviour. The perturbation framework is illustrated on an extensive credit default swap time series database available online at www.datagrapple.com.

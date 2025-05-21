@@ -1,0 +1,5 @@
+A Power Variance Test for Nonstationarity in Complex-Valued Signals
+
+stochastic processes,time-series analysis,nonstationary processes,bootstrap,oceanography
+
+We propose a novel algorithm for testing the hypothesis of nonstationarity in complex-valued signals. The implementation uses both the bootstrap and the Fast Fourier Transform such that the algorithm can be efficiently implemented in O(NlogN) time, where N is the length of the observed signal. The test procedure examines the second-order structure and contrasts the observed power variance -- i.e. the variability of the instantaneous variance over time -- with the expected characteristics of stationary signals generated via the bootstrap method. Our algorithmic procedure is capable of learning different types of nonstationarity, such as jumps or strong sinusoidal components. We illustrate the utility of our test and algorithm through application to turbulent flow data from fluid dynamics.

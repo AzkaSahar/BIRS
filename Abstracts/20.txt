@@ -1,0 +1,5 @@
+Combining Exact And Metaheuristic Techniques For Learning Extended Finite-State Machines From Test Scenarios and Temporal Properties
+
+finite-state machines, constraint satisfaction problem, ant colony optimization, model checking, control, hybrid algorithms
+
+This paper addresses the problem of learning extended finite-state machine (EFSM) from user-specified behavior examples (test scenarios) and temporal properties. We show how to combine exact EFSM inference algorithms~(that always find a solution if it exists) and metaheuristics to derive an efficient combined EFSM learning algorithm. We also present a new exact EFSM inference algorithm based on Constraint Satisfaction Problem (CSP) solvers. Experimental results are reported showing that the new combined algorithm significantly outperforms a previously used metaheuristic.

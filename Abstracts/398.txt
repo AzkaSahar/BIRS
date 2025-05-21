@@ -1,0 +1,5 @@
+A Noise Prediction and Time-Domain Subtraction Approach to Deep Neural Network Based Speech Enhancement
+
+speech enhancement,deep neural networks,noise estimation,speech quality,speech intelligibility
+
+Deep neural networks (DNNs) have recently been successfully applied to the speech enhancement task; however, the low signal-to-noise ratio (SNR) performance of DNN-based speech enhancement systems remains less than desirable. In this paper, we study an approach to DNN-based speech enhancement based on noise prediction. Three speech enhancement models based on noise prediction are proposed, and their performance is compared to that of conventional spectral-mapping models in seen and unseen noise tests. Objective test results show that the proposed noise prediction models perform well in enhancing speech quality in seen noise conditions and in enhancing high SNR speech signals. They also perform well in enhancing speech intelligibility in both seen and unseen noise conditions, but do not outperform the conventional models on quality metrics in unseen noise conditions. Further analysis of the enhanced speech signals is undertaken to explain the observed results.

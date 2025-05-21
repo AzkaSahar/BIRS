@@ -1,0 +1,5 @@
+Applying the Meta-heuristic Prediction Algorithm for Modeling Power Density in Wind Power Plant
+
+meta-heuristic prediction algorithm,power density,wind power plant
+
+In this paper, a robust artificial intelligence (AI) algorithm is applied to overcome challenges at power density prediction especially at the installation process of wind power plant. This algorithm also explores relationships between the meteorological parameters and power density. Importance degree of parameters on power density is converted numerical weighting values independently from each other. Thus, the effects of the wind speed, the wind direction, the temperature, the damp, the pressure on power density could be modelled. Besides, experimental study shows that the prediction accuracy and stability of the applied method superior than traditional AI-based techniques.

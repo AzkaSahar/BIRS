@@ -1,0 +1,5 @@
+A New Framework for Fine Tuning of Deep Networks
+
+deep learning,deep neural networks,fine tuning,drop out technique,gain parameter and drop out technique
+
+Very often training of deep neural networks involves two learning phases: unsupervised pretraining and supervised fine tuning. Unsupervised pretraining is used to learn the parameters of deep neural networks, while as supervised fine tuning improves upon what has been learnt in the pretraining stage. The predominant algorithm that is used for supervised fine tuning of deep neural networks is standard backpropagation algorithm. However, in the field of shallow neural networks, a number of modifications to backpropagation algorithm have been proposed that have improved the performance of trained model. In this paper we propose a hybrid approach that integrates gain parameter based backpropagation algorithm and the dropout technique and evaluate its effectiveness in the fine tuning of deep neural networks on three benchmark datasets. The results indicate that the proposed hybrid approach performs better fine tuning than backpropagation algorithm alone.

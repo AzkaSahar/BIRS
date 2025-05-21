@@ -1,0 +1,5 @@
+High Precision Screening for Android Malware with Dimensionality Reduction
+
+dimensionality reduction, mobile security, android, principal components analysis
+
+This work presents a new method of classifying previously unseen Android applications as malware or benign. The algorithm starts with a large set of features: the frequencies of all possible n-byte sequences in the application's byte code. Principal components analysis is applied to that frequency matrix in order to reduce it to a low-dimensional representation, which is then fed into any of several classification algorithms. We utilize the implicitly restarted Lanczos bidiagonalization algorithm and exploit the sparsity of the n-gram frequency matrix in order to efficiently compute the low-dimensional representation. When trained upon that low-dimensional representation, several classification algorithms achieve higher accuracy than previous work.

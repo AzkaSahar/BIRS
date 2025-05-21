@@ -1,0 +1,5 @@
+Review on Machine Learning Based Lesion Segmentation Methods from Brain MR Images
+
+image segmentation,feature extraction,lesions,probabilistic logic,biological neural networks,histograms
+
+Brain lesions are life threatening diseases. Traditional diagnosis of brain lesions is performed visually by neuro-radiologists. Nowadays, advanced technologies and the progress in magnetic resonance imaging provide computer aided diagnosis using automated methods that can detect and segment abnormal regions from different medical images. Among several techniques, machine learning based methods are flexible and efficient. Therefore, in this paper, we present a review on techniques applied for detection and segmentation of brain lesions from magnetic resonance images with supervised and unsupervised machine learning techniques.

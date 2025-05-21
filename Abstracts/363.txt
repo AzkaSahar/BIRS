@@ -1,0 +1,5 @@
+Classification-Based Adaptive Web Scraper 
+
+web scraping,information extraction,machine learning
+
+Web scraping is an important problem in computer science. The problem with the commonly-used position or structure-based web scraping tools is that they need to be manually reconfigured as soon as the structure of the web page changes. In this paper, we try to solve this problem of information extraction for web pages consisting of repetitive blocks. We extract these blocks and their constituent attributes, using a novel classification-based approach. Our approach gives high accuracy when used to extract product-offers from an offer-aggregator website. It is also highly adaptive to the changing structure of a website.

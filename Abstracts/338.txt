@@ -1,0 +1,5 @@
+Automating ECU Identification for Vehicle Security
+
+automotive security,machine learning,classification,can bus
+
+The field of vehicular cybersecurity has received considerable media and research attention in the past few years. Given the increasingly connected aspect of consumer automobiles, along with the inherent danger of these machines, there has been a call for experienced security researchers to contribute towards the vehicle security domain. The proprietary nature of Controller Area Network (CAN) bus messages, however, creates a barrier of entry for those unfamiliar, due to the need to identify what the messages on a given vehicle's bus are broadcasting. This work aims to automate the process of correlating CAN bus messages with specific Electronic Control Unit (ECU) functions in a new vehicle, by creating a machine learning classifier that has been trained on a dataset of multiple vehicles from different manufacturers. The results show that accurate classification is possible, and that some ECUs that broadcast similar vehicle dynamics broadcast similar CAN messages.

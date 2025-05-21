@@ -1,0 +1,5 @@
+Detecting Credit Card Fraud Using Periodic Features
+
+fraud detection,von mises distribution,cost-sensitive learning
+
+When constructing a credit card fraud detection model, it is very important to extract the right features from transactional data. This is usually done by aggregating the transactions in order to observe the spending behavioral patterns of the customers. In this paper we propose to create a new set of features based on analyzing the periodic behavior of the time of a transaction using the von Mises distribution. Using a real credit card fraud dataset provided by a large European card processing company, we compare state-of-the-art credit card fraud detection models, and evaluate how the different sets of features have an impact on the results. By including the proposed periodic features into the methods, the results show an average increase in savings of 13%. The aforementioned card processing company is currently incorporating the methodology proposed in this paper into their fraud detection system.

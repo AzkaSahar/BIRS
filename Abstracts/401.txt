@@ -1,0 +1,5 @@
+Supervised Machine Learning Based Surface Inspection by Synthetizing Artificial Defects
+
+inspection,surface images,image synthetization,artificial defects,supervised machine learning,convolutional neural nets,deep learning
+
+The preparation of labeled training data for supervised machine learning methods involves a lot of effort. Regarding surface inspection tasks, this endeavor is often not economically reasonable. In this paper, an artificial defect synthetization algorithm based on a multistep stochastic process is proposed. It adds defects to fault-free surface images, which can be used for supervised machine learning. By this means a deep convolutional neural network has been trained, achieving a detection rate of 94% of occurring real defects on the presented test surface.

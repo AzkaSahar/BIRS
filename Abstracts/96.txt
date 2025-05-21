@@ -1,0 +1,5 @@
+Speeding Learning of Personalized Audio Equalization
+
+personalized item, audio equalizer, transfer learning, collaborative filtering
+
+Audio equalizers (EQs) are perhaps the most commonly used tools used in audio production. The SocialEQ project is a web-based personalized audio equalization system that uses an alternative interface paradigm to the standard approach. Here, the user names a desired effect (e.g. Make the sound "warm") and teaches the tool (e.g. An equalizer) what settings make the sound embody the term. Social EQ typically requires 25 ratings to properly personalize the equalization settings. In this paper, we present three methods to improve the speed of generating personalized items (audio settings) so users can be provided personalized EQ curves after rating a much smaller number of examples. These methods can be adapted to any situation where collaborative filtering is desirable, the end products created for users are unique and comparable to each other, but prior users did not rate the same set of examples as the current user. Methods are tested on a data set of 1635 user sessions.

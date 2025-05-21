@@ -1,0 +1,5 @@
+Bird Call Identification Using Dynamic Kernel Based Support Vector Machines and Deep Neural Networks
+
+bio-acoustics,bird call identification,dynamic kernels,support vector machines,deep neural networks
+
+In this paper, we apply speech and audio processing techniques to bird vocalizations and for the classification of birds found in the lower Himalayan regions. Mel frequency cepstral coefficients (MFCC) are extracted from each recording. As a result, the recordings are now represented as varying length sets of feature vectors. Dynamic kernel based support vector machines (SVMs) and deep neural networks (DNNs) are popularly used for the classification of such varying length patterns obtained from speech signals. In this work, we propose to use dynamic kernel based SVMs and DNNs for classification of bird calls represented as sets of feature vectors. Results of our studies show that both approaches give comparable performance.

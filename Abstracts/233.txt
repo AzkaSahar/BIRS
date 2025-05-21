@@ -1,0 +1,5 @@
+Random Forest with Random Projection to Impute Missing Gene Expression Data
+
+missing data,imputation,gene expression data,random forest,random projection
+
+Measurement error or lack of proper experimental setup often results in invalid or missing data in gene expression studies. Small sample size and cost of re-running the experiment presents a need for an efficient missing data imputation technique. In this paper, we propose a method based on Random forest using Random projection as a data pre-processing filter. Initial results using varying missing data proportions on variety of real datasets show that the imputation process based on Random forest performs equally well or better than K-Nearest Neighbor & Support Vector Regression based methods. Using Random projection we show that dimensionality of a dataset can be reduced by 50 percent without affecting the imputation process.

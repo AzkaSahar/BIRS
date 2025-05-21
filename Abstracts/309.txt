@@ -1,0 +1,5 @@
+Enhanced Approach to Detection of SQL Injection Attack
+
+sql injection attack,sqli,sanitizer,web application
+
+In recent years, many financial sectors are evolving with huge numbers of web applications, which plays a crucial role in organizations to make important decisions. Considering this, the data has to be secured in order to prevent it from any attacks which lead to a huge loss. One of the topmost attacks in the database is SQL injection attack, is injecting some malicious query into the database causing serious threats. This paper proposes an enhanced approach to dynamic query matching technique by imposing a sanitizer for quick and easy detection of attack.

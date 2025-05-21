@@ -1,0 +1,5 @@
+Modeling and Simulation of Community Mobility Model for Next Generation Wireless Networks Using Coloured Petri Nets
+
+next generation wireless networks,topology mamagement,routing and mobility management,coloured petri nets,formal modeling,wireless communication
+
+In order to obtain comprehensive research analysis of mobility management schemes and routing protocols for Wireless Communication, it is prerequisite that the mobility model on which the simulation is based, shows a realistic mobility pattern. A key problem with much of the literature on random models is that they produce unrealistic node movement trajectory and have limitations viz., border effect, un-sociological behavior and memory less mobility phenomenon. This paper presents a novel community mobility model, which provide a foundation for generating realistic mobility traces and mimics real-world scenarios. The analytical results validate its performance, extensive simulation experiments are conducted through steady state space analysis.

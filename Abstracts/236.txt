@@ -1,0 +1,5 @@
+An Application of Classification and Class Decomposition to Use Case Point Estimation Method
+
+effort prediction,classification,clustering
+
+Use Case Points (UCP) estimation method describes the process of computing the software project size and productivity from use case diagram elements. These metrics are then used to predict the project effort at early stage of software development. The main challenges with previous models are that they were constructed based on a very limited number of observations, and using limited productivity ratios. This paper presents a new approach to predict productivity from UCP environmental factors by applying classification with decomposition technique. A class decomposition provides a number of advantages to supervised learning algorithms through segmenting classes into more homogenous classes, and therefore, increase their diversity. The proposed model is constructed and validated over two datasets that have relatively sufficient number of observations. The accuracy results are promising and have potential to increase accuracy of early effort estimation.

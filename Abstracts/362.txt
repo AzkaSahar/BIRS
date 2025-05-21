@@ -1,0 +1,5 @@
+Automatic Generation and Recommendation for API Mashups
+
+ap imashups,nlp,machine learning,deep learning
+
+Until today, finding the most suitable APIs to use in an application was burdensome, requiring manual and time-consuming searches across a diverse set of websites, in particular regarding how multiple APIs could be combined and worked together (i.e. API mashups). In this paper, we propose a new method to automatically generate API mashups through real-world data collection, text mining and natural language processing (NLP ) techniques. The generated API mashups are further ranked and recommended to developers based on a quantitative indicator of whether the given API mashup is plausible. To evaluate the overall accuracy of the proposed method, we use the generated API mashups to train several machine learning and deep learning models, and then use an independent mashup dataset collected from Github projects for testing. The experimental results show that our proposed method is feasible and accurate for automatic API mashup generation and recommendation.

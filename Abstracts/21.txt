@@ -1,0 +1,5 @@
+Human action recognition based on recognition of linear patterns in action bank features using convolutional neural networks
+
+human action recognition, action bank features, deep convolutional network
+
+In this paper, we proposed a deep convolutional network architecture for recognizing human actions in videos using action bank features. Action bank features computed against of a predefined set of videos known as an action bank, contain linear patterns representing the similarity of the video against the action bank videos. Due to the independence of the patterns across action bank features, a convolutional neural network with linear masks is considered to capture the local patterns associated with each action. The knowledge gained through training is used to assign an action label to videos during testing. Experiments conducted on UCF50 dataset demonstrates the effectiveness of the proposed approach in capturing and recognizing these linear local patterns.

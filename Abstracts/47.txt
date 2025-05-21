@@ -1,0 +1,5 @@
+LSH vs Randomized Partition Trees: Which One to Use for Nearest Neighbor Search?
+
+nearest neighbor search, rp trees
+
+Recently, randomized partition trees have been theoretically shown (cite{dasgupta13}) to be very effective in performing high dimensional nearest neighbor search. In this paper, we introduce a variant of randomized partition trees  for high dimensional nearest neighbor search problem and provide theoretical justification for its choice. Experiments on various real-life datasets show that this new variant performs better than the variant introduced in cite{dasgupta13}  and also than the locality sensitive hashing (LSH) method for nearest neighbor search. In addition, we show an interesting connection between various  notions of difficulty in nearest neighbor search problem, that have recently been introduced, namely, potential function (cite{dasgupta13}) and relative contrast (cite{he12}).

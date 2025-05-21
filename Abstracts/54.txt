@@ -1,0 +1,5 @@
+Arctic Sea Ice Extent Forecasting Using Support Vector Regression
+
+arctic sea ice, svr, time series forecasting
+
+The summer minimum Arctic sea ice extent has long been used as a measure of climate change, with record lows being reported in recent years. Understanding the dynamics of Arctic sea ice extent is of utmost importance in understanding the timescales associated with this change. Complex global climate models are typically employed to gain insights about the future of Arctic sea ice, however, these models are typically very computationally expensive to solve and the results are often controversial. Here, we use historical data from remote sensing satellites along with machine learning algorithms in the forecasting of Arctic sea ice extent. Support Vector Regression is employed in the learning of a dynamic model to represent this system. Validation results demonstrate the ability of the method to successfully forecast both the seasonal and long-term trends in Arctic sea ice coverage.

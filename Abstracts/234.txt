@@ -1,0 +1,5 @@
+Mining over a Reliable Evidential Database: Application on Amphiphilic Chemical Database
+
+reliability,evidential database,frequent patterns,associative classification
+
+In recent years, the mining of frequent itemsets from uncertain databases has attracted much attention. Several researches have been conducted using different uncertain frameworks as probabilities, fuzzy sets and, most recently, evidence theory. There is very little study paid to mining pertinent knowledge from data where reliability is questionable. In this paper, we study and extend the evidential database framework in accounting data reliability. We propose new measures of support and confidence under uncertainty that consider the reliability and extend the state-of-the-art works. The proposed framework is thoroughly experimented on a real case problem for developing classification model from a chemical database.

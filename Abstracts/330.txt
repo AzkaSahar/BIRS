@@ -1,0 +1,5 @@
+Machine Learning for Optimum CT-Prediction for qPCR
+
+machine learning,qpcr,ct prediction,algorithm,sigmoid
+
+Introduction of fluorescence-based Real-Time PCR (RT-PCR) is increasingly used to detect multiple pathogens simultaneously and rapidly by gene expression analysis of PCR amplification data. PCR data is analyzed often by setting an arbitrary threshold that intersect the signal curve in its exponential phase if it exists. The point at which the curve crosses the threshold is called Threshold Cycle (CT) for positive samples. On the other, when such cross of threshold does not occur, the sample is identified as negative. This simple and arbitrary however not an elagant definition of CT value sometimes leads to conclusions that are either false positive or negative. Therefore, the purpose of this paper is to present a stable and consistent alternative approach that is based on machine learning for the definition and determination of CT values.

@@ -1,0 +1,5 @@
+Automatic Optimization of Localized Kernel Density Estimation for Hotspot Policing
+
+crime prediction,hotspot mapping,convolution filtering,genetic algorithm
+
+Kernel density estimation is a popular method for identifying crime hotspots for the purpose of data-driven policing. However, computing a kernel density estimate is computationally intensive for large crime datasets, and the quality of the resulting estimate depends heavily on parameters that are difficult to set manually. Inspired by methods from image processing, we propose a novel way for performing hotspot analysis using localized kernel density estimation optimized with an evolutionary algorithm. The proposed method uses local learning to address three challenges associated with traditional kernel density estimation: computational complexity, bandwidth selection, and kernel function selection. We evaluate our localized kernel model on 17 crime types from Chicago, Illinois, USA. Preliminary results indicate significant improvement in prediction performance over the traditional approach. We also examine the effect of data sparseness on the performance of both models.

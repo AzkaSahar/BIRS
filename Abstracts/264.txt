@@ -1,0 +1,5 @@
+Automatic Species Recognition Based on Improved Birdsong Analysis
+
+syllable segmentation,support vector machine,kernel function,gaussian radial basis function
+
+This work seeks to improve upon the accuracy of birdsong analysis based species recognition. We intend to accomplish this by creating a more effective bird syllable segmentation algorithms (MIRS), Support Vector machine based classifiers are used to train the features of IRS and MIRS. The experimental results show the effectiveness of the proposed algorithm.

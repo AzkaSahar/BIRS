@@ -1,0 +1,5 @@
+Anomaly Detection in Multivariate Non-stationary Time Series for Automatic DBMS Diagnosis
+
+anomaly detection,non stationary time-series,automatic diagnosis,reconstruction error,statistical process control,transfer learning
+
+Anomaly detection in database management systems (DBMSs) is difficult because of increasing number of statistics (stat) and event metrics in big data system. In this paper, I propose an automatic DBMS diagnosis system that detects anomaly periods with abnormal DB stat metrics and finds causal events in the periods. Reconstruction error from deep autoencoder and statistical process control approach are applied to detect time period with anomalies. Related events are found using time series similarity measures between events and abnormal stat metrics. After training deep autoencoder with DBMS metric data, efficacy of anomaly detection is investigated from other DBMSs containing anomalies. Experiment results show effectiveness of proposed model, especially, batch temporal normalization layer. Proposed model is used for publishing automatic DBMS diagnosis reports in order to determine DBMS configuration and SQL tuning.

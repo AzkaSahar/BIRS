@@ -1,0 +1,5 @@
+Genetically Supervised Self-Organizing Map for the Classification of Glass Samples
+
+classification, self-organizing map, genetic optimization and supervision
+
+The self-organizing map (SOM) is a useful tool for creating abstractions of high-dimensional distributions of inputs. It computes the ideal mapping of the domain of observations, using either discrete or continuous distributions of values (1). The SOM benefits from the coupling with a genetic algorithm (GA). GAs are optimization algorithms that allow the user to evolve a solution from a distribution of potential solutions (2). The fittest candidates survive and participate in the production of future generations of new solutions. The fusion of these two techniques results in a dynamic algorithm that maps a diverse input plane in an optimizing fashion, striving towards perfection while learning from mistakes. We will detail the general principles involved and demonstrate the performance of this algorithm in the classification of glass samples.

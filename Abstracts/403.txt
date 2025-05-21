@@ -1,0 +1,5 @@
+A New Approach to Segment Hemorrhagic Stroke in Computed Tomography via Optimum Path Snakes
+
+active contour method,optimum path forest,snakes,image segmentation
+
+This work presents a new approach to segment hemorrhagic stroke based on an active contour method called Optimum Path Snakes (OPS). The Analysis of Human Tissue Densities (AHTD) was introduced as the evolution of the Pulmonary Density Analysis feature extractor. The results of this approach were compared with the Region Growing, Watershed and Level Set based on the coherent propagation methods to segment the stroke region. Accuracy, Matthews Correlation Coefficient, Dice Coefficient, Hausdorff Distance and Harmonic Means metrics were used to verify the efficacy of OPS over the other methods. The OPS method along with the AHTD extractor presented the best results, which demonstrated the potential for this approach to be used in medical diagnosis systems.

@@ -1,0 +1,5 @@
+Incremental SVD for Insight into Wind Generation
+
+vectors,matrix decomposition,approximation methods,singular value decomposition,wind speed
+
+In this paper, we formulate the problem of predicting wind generation as one of streaming data analysis. We want to understand if it is possible to use the weather data in a time window just before the current time to gain insight into how the wind generation might behave in a time interval just after the current time. Specifically, we use a singular value decomposition of the weather data, and how that the number of singular values and the largest singular value can be used to predict the magnitude of the change in the generation in the near future. The analysis uses an incremental algorithm based on a sliding window for reduced computational costs.

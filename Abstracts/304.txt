@@ -1,0 +1,5 @@
+k-Means Partition of Monthly Average Insolation Period Data for Turkey
+
+partitional clustering,k-means,star glyph plot,insolation period
+
+Solar power penetration has made the site-specific energy ratings an essential necessity for utilities, independent systems operators and regional transmission organizations. Since, it leads to the reliable and efficient energy production with the increased levels of solar power integration. This study concentrates on the partitional clustering analysis of monthly average insolation period data for the 75 provinces in Turkey. Together with the k-means clustering algorithm, we use Pearson Correlation, Cosine, Squared Euclidean and City-Block distance measures for the high-dimensional neighborhood measurement and utilize the silhouette width for validating the achieved clustering results. In consequence of comparing the star glyph plots with the k-means clustering results, the most productive and the most unfavorable places among all provinces are mined on the basis of monthly average insolation period.

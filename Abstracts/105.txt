@@ -1,0 +1,5 @@
+A Directed Acyclic Graphical Approach and Ensemble Feature Selection for a Better Drug Development Strategy Using Partial Knowledge from KEGG Signalling Pathways
+
+drug-design, machine learning, feature selection, kegg signalling pathways
+
+In this paper we consider the application of machine learning of graphical models and feature selection for developing better drug-design strategies. The work discussed in this paper is based on utilizing partial prior knowledge available through KEGG signalling pathway database in tan dim with our recent developed ensemble feature selection methods for a better regularisation of the lasso estimate. This work adds an extra layer of previously unseen knowledge in KEGG signalling pathways that embodies infering the underlying connectivity between gene-families implicated in breast cancer in MAPK-signalling pathway in response to application of anti-cancer drugs "neoadjuvant docetaxel".

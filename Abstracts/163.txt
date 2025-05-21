@@ -1,0 +1,5 @@
+A Bilevel Parameter Tuning Strategy of Partially Connected ANNs
+
+optimization,neurons,tuning,topology,training,time series analysis,network topology
+
+Partially connected ANN with Evolvable Topology (PANNET) is a non-fully connected recurrent neural network with proper number of context nodes. The structure of the network along with connection weights are determined through the evolutionary process of a customized genetic algorithm. In this paper, we develop an evolutionary bilevel optimization procedure for tuning the hyper-parameters of PANNET. In the upper level, an evolutionary algorithm optimizes the hyper-parameters, while the customized genetic algorithm is training the PANNET in the lower level optimization. Since executing the lower level optimization for each candidate hyper-parameters requires a high computational cost, fitness function approximation is performed using a regression model based on the Random Forest method. The proposed procedure provides more flexibility on choosing the hyper-parameters, and generate a smaller network with more accuracy in prediction.

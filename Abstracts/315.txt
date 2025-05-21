@@ -1,0 +1,5 @@
+A Web Based Pipeline Tool for the Combination of Logic Conditions for NGS Data
+
+next generation sequence (ngs),pipeline,genome analysis toolkit (gatk)
+
+Development of software tools to analyze next-generation sequencing (NGS) data is one of the urgent tasks in bioinformatics field. Currently, lots of next-generation sequencing data analysis software has been developed. However, most of them only support one type of analyses such as sequence alignments or function annotations by command lines. Therefore, a friendly user interface of NGS data with fewer configurations is necessary. In this paper, a web based automatic pipeline running on high performance computing environment was introduced. The raw data was generated from Illumine sequencing instrument. The GATK based parallel commutating scheme is used to control and generate the result. The pipeline starts from fastQ file uploaded by the graphical interface. Then the data will be analyzed automatically.

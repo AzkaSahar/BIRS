@@ -1,0 +1,5 @@
+Comparative Evaluation of Top-N Recommenders in e-Commerce: An Industrial Perspective
+
+recommender systems,e-commerce,implicit feedback,collaborative filtering,hyperparameter optimization,recommender systems survey
+
+We experiment on two real e-commerce datasets and survey more than 30 popular e-commerce platforms to reveal what methods work best for product recommendations in industrial settings. Despite recent academic advances in the field, we observe that simple methods such as best-seller lists dominate deployed recommendation engines in e-commerce. We find our empirical findings to be well-aligned with those of the survey, where in both cases simple personalized recommenders achieve higher ranking than more advanced techniques. We also compare the traditional random evaluation protocol to our proposed chronological sampling method, which can be used for determining the optimal time-span of the training history for optimizing the performance of algorithms. This performance is also affected by a proper hyperparameter tuning, for which we propose golden section search as a fast alternative to other optimization techniques.

@@ -1,0 +1,5 @@
+Multistep-ahead Streamflow and Reservoir Level Prediction Using ANNs for Production Planning in Hydroelectric Stations
+
+prediction,anns,hydroelectric,reservoir level,streamflow
+
+In this work, a methodology to estimate the reservoir level in a hydroelectric dam, based on the predicted streamflow and desired active power, is presented. The streamflow is predicted using two multistep-ahead prediction methods: Close-Loop Prediction (CLP) and Open-Loop Prediction (OLP). Streamflow predictors and dam model are based on Artificial Neural Networks (ANNs). Further analysis of historical streamflow data demonstrated the presence of three climatic seasons and allowed to set the better configuration of ANNs topology and horizons. The prediction system was tested in a hydroelectric power plant in Ecuador. In particular, a comparison between the results obtained from the different combinations of streamflow predictors and dam model was performed concerning success percentage of prediction. Finally, dam model revealed a good accuracy for reservoir level predictions when combined with the most promising streamflow predictors implemented with CLP method for the summer season.

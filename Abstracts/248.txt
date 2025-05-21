@@ -1,0 +1,5 @@
+Correlating Filter Diversity with Convolutional Neural Network Accuracy
+
+convolutional neural network,regularization,normalization,preprocessing
+
+This paper describes three metrics used to asses the filter diversity learned by convolutional neural networks during supervised classification. As our testbed we use four different data sets, including two subsets of ImageNet and two planktonic data sets collected by scientific instruments. We investigate the correlation between our devised metrics and accuracy, using normalization and regularization to alter filter diversity. We propose that these metrics could be used to improve training CNNs. Three potential applications are determining the best preprocessing method for non-standard data sets, diagnosing training efficacy, and predicting performance in cases where validation data is expensive or impossible to collect.

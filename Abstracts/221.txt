@@ -1,0 +1,5 @@
+Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Energy Applications
+
+predictive models,meteorology,forecasting,probabilistic logic,data models,training data,computational modeling
+
+Solar irradiance forecasting is an important problem in renewable energy management where any dips in solar energy generation must be made up for by reserves in order to ensure an uninterrupted energy supply. In this paper, we study several data mining methods for short term solar irradiance forecasting at a given location. In particular, we apply linear regression, probabilistic models, and naive Bayes classifier to forecast solar irradiance one day ahead, i.e., we forecast what tomorrow's solar irradiance will be like at sundown today. We evaluate the forecasting performance of our adaptations of the three models using land-based weather data from several weather stations on the island of Oahu in Hawai'i.

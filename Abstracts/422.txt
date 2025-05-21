@@ -1,0 +1,5 @@
+Mitigating IoT-based Cyberattacks on the Smart Grid
+
+smart grids,smart meters,anomaly detection,protocols,computer crime,home appliances
+
+The impact of cybersecurity attacks on the Smart Grid may cause cyber as well as physical damages, as clearly shown in the recent attacks on the power grid in Ukraine where consumers were left without power. A set of recent successful Distributed Denial-of-Service (DDoS) attacks on the Internet, facilitated by the proliferation of the Internet-of-Things powered botnets, shows that it is just a matter of time before the Smart Grid, as one of the most attractive critical infrastructure systems, becomes the target and likely victim of similar attacks, potentially leaving catastrophic disruption of power service to millions of people. It is in this context that we propose a scalable mitigation approach, referred to as Minimally Invasive Attack Mitigation via Detection Isolation and Localization (MIAMI-DIL), under a hierarchical data collection infrastructure. We provide a proofof- concept by means of simulations which show the efficacy and scalability of the proposed approach.
